@@ -1,0 +1,14 @@
+Traducao parada na posicao 464
+<class 'KeyboardInterrupt'>Traducao parada na posicao 463
+<class 'KeyError'>Traducao parada na posicao 463
+<class 'KeyError'>Traducao parada na posicao 463
+<class 'KeyError'>Traducao parada na posicao 463
+<class 'KeyError'>Traducao parada na posicao 463
+<class 'KeyError'>Traducao parada na posicao 463
+<class 'TypeError'>Traducao parada na posicao 463
+<class 'TypeError'>Traducao parada na posicao 463
+<class 'TypeError'>Traducao parada na posicao 463
+<class 'TypeError'>Traducao parada na posicao 463
+<class 'TypeError'>Traducao parada na posicao 463
+<class 'TypeError'>Traducao parada na posicao 463
+<class 'TypeError'>

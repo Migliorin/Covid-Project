@@ -1,0 +1,4723 @@
+Lista dicionario: 1 | Total: 442
+Progresso: 1 de 149796
+Lista paragraphs: 1 | Total: 66
+Lista PR: 1 | Total: 15
+Progresso: 2 de 149796
+Lista PR: 2 | Total: 15
+Progresso: 3 de 149796
+Lista PR: 3 | Total: 15
+Progresso: 4 de 149796
+Lista PR: 4 | Total: 15
+Progresso: 5 de 149796
+Lista PR: 5 | Total: 15
+Progresso: 6 de 149796
+Lista PR: 6 | Total: 15
+Progresso: 7 de 149796
+Lista PR: 7 | Total: 15
+Progresso: 8 de 149796
+Lista PR: 8 | Total: 15
+Progresso: 9 de 149796
+Lista PR: 9 | Total: 15
+Progresso: 10 de 149796
+Lista PR: 10 | Total: 15
+Progresso: 11 de 149796
+Lista PR: 11 | Total: 15
+Progresso: 12 de 149796
+Lista PR: 12 | Total: 15
+Progresso: 13 de 149796
+Lista PR: 13 | Total: 15
+Progresso: 14 de 149796
+Lista PR: 14 | Total: 15
+Progresso: 15 de 149796
+Lista PR: 15 | Total: 15
+Progresso: 16 de 149796
+Progresso: 17 de 149796
+Lista paragraphs: 2 | Total: 66
+Lista PR: 1 | Total: 12
+Progresso: 18 de 149796
+Lista PR: 2 | Total: 12
+Progresso: 19 de 149796
+Lista PR: 3 | Total: 12
+Progresso: 20 de 149796
+Lista PR: 4 | Total: 12
+Progresso: 21 de 149796
+Lista PR: 5 | Total: 12
+Progresso: 22 de 149796
+Lista PR: 6 | Total: 12
+Progresso: 23 de 149796
+Lista PR: 7 | Total: 12
+Progresso: 24 de 149796
+Lista PR: 8 | Total: 12
+Progresso: 25 de 149796
+Lista PR: 9 | Total: 12
+Progresso: 26 de 149796
+Lista PR: 10 | Total: 12
+Progresso: 27 de 149796
+Lista PR: 11 | Total: 12
+Progresso: 28 de 149796
+Lista PR: 12 | Total: 12
+Progresso: 29 de 149796
+Progresso: 30 de 149796
+Lista paragraphs: 3 | Total: 66
+Lista PR: 1 | Total: 12
+Progresso: 31 de 149796
+Lista PR: 2 | Total: 12
+Progresso: 32 de 149796
+Lista PR: 3 | Total: 12
+Progresso: 33 de 149796
+Lista PR: 4 | Total: 12
+Progresso: 34 de 149796
+Lista PR: 5 | Total: 12
+Progresso: 35 de 149796
+Lista PR: 6 | Total: 12
+Progresso: 36 de 149796
+Lista PR: 7 | Total: 12
+Progresso: 37 de 149796
+Lista PR: 8 | Total: 12
+Progresso: 38 de 149796
+Lista PR: 9 | Total: 12
+Progresso: 39 de 149796
+Lista PR: 10 | Total: 12
+Progresso: 40 de 149796
+Lista PR: 11 | Total: 12
+Progresso: 41 de 149796
+Lista PR: 12 | Total: 12
+Progresso: 42 de 149796
+Progresso: 43 de 149796
+Lista paragraphs: 4 | Total: 66
+Lista PR: 1 | Total: 13
+Progresso: 44 de 149796
+Lista PR: 2 | Total: 13
+Progresso: 45 de 149796
+Lista PR: 3 | Total: 13
+Progresso: 46 de 149796
+Lista PR: 4 | Total: 13
+Progresso: 47 de 149796
+Lista PR: 5 | Total: 13
+Progresso: 48 de 149796
+Lista PR: 6 | Total: 13
+Progresso: 49 de 149796
+Lista PR: 7 | Total: 13
+Progresso: 50 de 149796
+Lista PR: 8 | Total: 13
+Progresso: 51 de 149796
+Lista PR: 9 | Total: 13
+Progresso: 52 de 149796
+Lista PR: 10 | Total: 13
+Progresso: 53 de 149796
+Lista PR: 11 | Total: 13
+Progresso: 54 de 149796
+Lista PR: 12 | Total: 13
+Progresso: 55 de 149796
+Lista PR: 13 | Total: 13
+Progresso: 56 de 149796
+Progresso: 57 de 149796
+Lista paragraphs: 5 | Total: 66
+Lista PR: 1 | Total: 11
+Progresso: 58 de 149796
+Lista PR: 2 | Total: 11
+Progresso: 59 de 149796
+Lista PR: 3 | Total: 11
+Progresso: 60 de 149796
+Lista PR: 4 | Total: 11
+Progresso: 61 de 149796
+Lista PR: 5 | Total: 11
+Progresso: 62 de 149796
+Lista PR: 6 | Total: 11
+Progresso: 63 de 149796
+Lista PR: 7 | Total: 11
+Progresso: 64 de 149796
+Lista PR: 8 | Total: 11
+Progresso: 65 de 149796
+Lista PR: 9 | Total: 11
+Progresso: 66 de 149796
+Lista PR: 10 | Total: 11
+Progresso: 67 de 149796
+Lista PR: 11 | Total: 11
+Progresso: 68 de 149796
+Progresso: 69 de 149796
+Lista paragraphs: 6 | Total: 66
+Lista PR: 1 | Total: 13
+Progresso: 70 de 149796
+Lista PR: 2 | Total: 13
+Progresso: 71 de 149796
+Lista PR: 3 | Total: 13
+Progresso: 72 de 149796
+Lista PR: 4 | Total: 13
+Progresso: 73 de 149796
+Lista PR: 5 | Total: 13
+Progresso: 74 de 149796
+Lista PR: 6 | Total: 13
+Progresso: 75 de 149796
+Lista PR: 7 | Total: 13
+Progresso: 76 de 149796
+Lista PR: 8 | Total: 13
+Progresso: 77 de 149796
+Lista PR: 9 | Total: 13
+Progresso: 78 de 149796
+Lista PR: 10 | Total: 13
+Progresso: 79 de 149796
+Lista PR: 11 | Total: 13
+Progresso: 80 de 149796
+Lista PR: 12 | Total: 13
+Progresso: 81 de 149796
+Lista PR: 13 | Total: 13
+Progresso: 82 de 149796
+Progresso: 83 de 149796
+Lista paragraphs: 7 | Total: 66
+Lista PR: 1 | Total: 13
+Progresso: 84 de 149796
+Lista PR: 2 | Total: 13
+Progresso: 85 de 149796
+Lista PR: 3 | Total: 13
+Progresso: 86 de 149796
+Lista PR: 4 | Total: 13
+Progresso: 87 de 149796
+Lista PR: 5 | Total: 13
+Progresso: 88 de 149796
+Lista PR: 6 | Total: 13
+Progresso: 89 de 149796
+Lista PR: 7 | Total: 13
+Progresso: 90 de 149796
+Lista PR: 8 | Total: 13
+Progresso: 91 de 149796
+Lista PR: 9 | Total: 13
+Progresso: 92 de 149796
+Lista PR: 10 | Total: 13
+Progresso: 93 de 149796
+Lista PR: 11 | Total: 13
+Progresso: 94 de 149796
+Lista PR: 12 | Total: 13
+Progresso: 95 de 149796
+Lista PR: 13 | Total: 13
+Progresso: 96 de 149796
+Progresso: 97 de 149796
+Lista paragraphs: 8 | Total: 66
+Lista PR: 1 | Total: 10
+Progresso: 98 de 149796
+Lista PR: 2 | Total: 10
+Progresso: 99 de 149796
+Lista PR: 3 | Total: 10
+Progresso: 100 de 149796
+Lista PR: 4 | Total: 10
+Progresso: 101 de 149796
+Lista PR: 5 | Total: 10
+Progresso: 102 de 149796
+Lista PR: 6 | Total: 10
+Progresso: 103 de 149796
+Lista PR: 7 | Total: 10
+Progresso: 104 de 149796
+Lista PR: 8 | Total: 10
+Progresso: 105 de 149796
+Lista PR: 9 | Total: 10
+Progresso: 106 de 149796
+Lista PR: 10 | Total: 10
+Progresso: 107 de 149796
+Progresso: 108 de 149796
+Lista paragraphs: 9 | Total: 66
+Lista PR: 1 | Total: 11
+Progresso: 109 de 149796
+Lista PR: 2 | Total: 11
+Progresso: 110 de 149796
+Lista PR: 3 | Total: 11
+Progresso: 111 de 149796
+Lista PR: 4 | Total: 11
+Progresso: 112 de 149796
+Lista PR: 5 | Total: 11
+Progresso: 113 de 149796
+Lista PR: 6 | Total: 11
+Progresso: 114 de 149796
+Lista PR: 7 | Total: 11
+Progresso: 115 de 149796
+Lista PR: 8 | Total: 11
+Progresso: 116 de 149796
+Lista PR: 9 | Total: 11
+Progresso: 117 de 149796
+Lista PR: 10 | Total: 11
+Progresso: 118 de 149796
+Lista PR: 11 | Total: 11
+Progresso: 119 de 149796
+Progresso: 120 de 149796
+Lista paragraphs: 10 | Total: 66
+Lista PR: 1 | Total: 15
+Progresso: 121 de 149796
+Lista PR: 2 | Total: 15
+Progresso: 122 de 149796
+Lista PR: 3 | Total: 15
+Progresso: 123 de 149796
+Lista PR: 4 | Total: 15
+Progresso: 124 de 149796
+Lista PR: 5 | Total: 15
+Progresso: 125 de 149796
+Lista PR: 6 | Total: 15
+Progresso: 126 de 149796
+Lista PR: 7 | Total: 15
+Progresso: 127 de 149796
+Lista PR: 8 | Total: 15
+Progresso: 128 de 149796
+Lista PR: 9 | Total: 15
+Progresso: 129 de 149796
+Lista PR: 10 | Total: 15
+Progresso: 130 de 149796
+Lista PR: 11 | Total: 15
+Progresso: 131 de 149796
+Lista PR: 12 | Total: 15
+Progresso: 132 de 149796
+Lista PR: 13 | Total: 15
+Progresso: 133 de 149796
+Lista PR: 14 | Total: 15
+Progresso: 134 de 149796
+Lista PR: 15 | Total: 15
+Progresso: 135 de 149796
+Progresso: 136 de 149796
+Lista paragraphs: 11 | Total: 66
+Lista PR: 1 | Total: 14
+Progresso: 137 de 149796
+Lista PR: 2 | Total: 14
+Progresso: 138 de 149796
+Lista PR: 3 | Total: 14
+Progresso: 139 de 149796
+Lista PR: 4 | Total: 14
+Progresso: 140 de 149796
+Lista PR: 5 | Total: 14
+Progresso: 141 de 149796
+Lista PR: 6 | Total: 14
+Progresso: 142 de 149796
+Lista PR: 7 | Total: 14
+Progresso: 143 de 149796
+Lista PR: 8 | Total: 14
+Progresso: 144 de 149796
+Lista PR: 9 | Total: 14
+Progresso: 145 de 149796
+Lista PR: 10 | Total: 14
+Progresso: 146 de 149796
+Lista PR: 11 | Total: 14
+Progresso: 147 de 149796
+Lista PR: 12 | Total: 14
+Progresso: 148 de 149796
+Lista PR: 13 | Total: 14
+Progresso: 149 de 149796
+Lista PR: 14 | Total: 14
+Progresso: 150 de 149796
+Progresso: 151 de 149796
+Lista paragraphs: 12 | Total: 66
+Lista PR: 1 | Total: 10
+Progresso: 152 de 149796
+Lista PR: 2 | Total: 10
+Progresso: 153 de 149796
+Lista PR: 3 | Total: 10
+Progresso: 154 de 149796
+Lista PR: 4 | Total: 10
+Progresso: 155 de 149796
+Lista PR: 5 | Total: 10
+Progresso: 156 de 149796
+Lista PR: 6 | Total: 10
+Progresso: 157 de 149796
+Lista PR: 7 | Total: 10
+Progresso: 158 de 149796
+Lista PR: 8 | Total: 10
+Progresso: 159 de 149796
+Lista PR: 9 | Total: 10
+Progresso: 160 de 149796
+Lista PR: 10 | Total: 10
+Progresso: 161 de 149796
+Progresso: 162 de 149796
+Lista paragraphs: 13 | Total: 66
+Lista PR: 1 | Total: 11
+Progresso: 163 de 149796
+Lista PR: 2 | Total: 11
+Progresso: 164 de 149796
+Lista PR: 3 | Total: 11
+Progresso: 165 de 149796
+Lista PR: 4 | Total: 11
+Progresso: 166 de 149796
+Lista PR: 5 | Total: 11
+Progresso: 167 de 149796
+Lista PR: 6 | Total: 11
+Progresso: 168 de 149796
+Lista PR: 7 | Total: 11
+Progresso: 169 de 149796
+Lista PR: 8 | Total: 11
+Progresso: 170 de 149796
+Lista PR: 9 | Total: 11
+Progresso: 171 de 149796
+Lista PR: 10 | Total: 11
+Progresso: 172 de 149796
+Lista PR: 11 | Total: 11
+Progresso: 173 de 149796
+Progresso: 174 de 149796
+Lista paragraphs: 14 | Total: 66
+Lista PR: 1 | Total: 13
+Progresso: 175 de 149796
+Lista PR: 2 | Total: 13
+Progresso: 176 de 149796
+Lista PR: 3 | Total: 13
+Progresso: 177 de 149796
+Lista PR: 4 | Total: 13
+Progresso: 178 de 149796
+Lista PR: 5 | Total: 13
+Progresso: 179 de 149796
+Lista PR: 6 | Total: 13
+Progresso: 180 de 149796
+Lista PR: 7 | Total: 13
+Progresso: 181 de 149796
+Lista PR: 8 | Total: 13
+Progresso: 182 de 149796
+Lista PR: 9 | Total: 13
+Progresso: 183 de 149796
+Lista PR: 10 | Total: 13
+Progresso: 184 de 149796
+Lista PR: 11 | Total: 13
+Progresso: 185 de 149796
+Lista PR: 12 | Total: 13
+Progresso: 186 de 149796
+Lista PR: 13 | Total: 13
+Progresso: 187 de 149796
+Progresso: 188 de 149796
+Lista paragraphs: 15 | Total: 66
+Lista PR: 1 | Total: 14
+Progresso: 189 de 149796
+Lista PR: 2 | Total: 14
+Progresso: 190 de 149796
+Lista PR: 3 | Total: 14
+Progresso: 191 de 149796
+Lista PR: 4 | Total: 14
+Progresso: 192 de 149796
+Lista PR: 5 | Total: 14
+Progresso: 193 de 149796
+Lista PR: 6 | Total: 14
+Progresso: 194 de 149796
+Lista PR: 7 | Total: 14
+Progresso: 195 de 149796
+Lista PR: 8 | Total: 14
+Progresso: 196 de 149796
+Lista PR: 9 | Total: 14
+Progresso: 197 de 149796
+Lista PR: 10 | Total: 14
+Progresso: 198 de 149796
+Lista PR: 11 | Total: 14
+Progresso: 199 de 149796
+Lista PR: 12 | Total: 14
+Progresso: 200 de 149796
+Lista PR: 13 | Total: 14
+Progresso: 201 de 149796
+Lista PR: 14 | Total: 14
+Progresso: 202 de 149796
+Progresso: 203 de 149796
+Lista paragraphs: 16 | Total: 66
+Lista PR: 1 | Total: 13
+Progresso: 204 de 149796
+Lista PR: 2 | Total: 13
+Progresso: 205 de 149796
+Lista PR: 3 | Total: 13
+Progresso: 206 de 149796
+Lista PR: 4 | Total: 13
+Progresso: 207 de 149796
+Lista PR: 5 | Total: 13
+Progresso: 208 de 149796
+Lista PR: 6 | Total: 13
+Progresso: 209 de 149796
+Lista PR: 7 | Total: 13
+Progresso: 210 de 149796
+Lista PR: 8 | Total: 13
+Progresso: 211 de 149796
+Lista PR: 9 | Total: 13
+Progresso: 212 de 149796
+Lista PR: 10 | Total: 13
+Progresso: 213 de 149796
+Lista PR: 11 | Total: 13
+Progresso: 214 de 149796
+Lista PR: 12 | Total: 13
+Progresso: 215 de 149796
+Lista PR: 13 | Total: 13
+Progresso: 216 de 149796
+Progresso: 217 de 149796
+Lista paragraphs: 17 | Total: 66
+Lista PR: 1 | Total: 14
+Progresso: 218 de 149796
+Lista PR: 2 | Total: 14
+Progresso: 219 de 149796
+Lista PR: 3 | Total: 14
+Progresso: 220 de 149796
+Lista PR: 4 | Total: 14
+Progresso: 221 de 149796
+Lista PR: 5 | Total: 14
+Progresso: 222 de 149796
+Lista PR: 6 | Total: 14
+Progresso: 223 de 149796
+Lista PR: 7 | Total: 14
+Progresso: 224 de 149796
+Lista PR: 8 | Total: 14
+Progresso: 225 de 149796
+Lista PR: 9 | Total: 14
+Progresso: 226 de 149796
+Lista PR: 10 | Total: 14
+Progresso: 227 de 149796
+Lista PR: 11 | Total: 14
+Progresso: 228 de 149796
+Lista PR: 12 | Total: 14
+Progresso: 229 de 149796
+Lista PR: 13 | Total: 14
+Progresso: 230 de 149796
+Lista PR: 14 | Total: 14
+Progresso: 231 de 149796
+Progresso: 232 de 149796
+Lista paragraphs: 18 | Total: 66
+Lista PR: 1 | Total: 11
+Progresso: 233 de 149796
+Lista PR: 2 | Total: 11
+Progresso: 234 de 149796
+Lista PR: 3 | Total: 11
+Progresso: 235 de 149796
+Lista PR: 4 | Total: 11
+Progresso: 236 de 149796
+Lista PR: 5 | Total: 11
+Progresso: 237 de 149796
+Lista PR: 6 | Total: 11
+Progresso: 238 de 149796
+Lista PR: 7 | Total: 11
+Progresso: 239 de 149796
+Lista PR: 8 | Total: 11
+Progresso: 240 de 149796
+Lista PR: 9 | Total: 11
+Progresso: 241 de 149796
+Lista PR: 10 | Total: 11
+Progresso: 242 de 149796
+Lista PR: 11 | Total: 11
+Progresso: 243 de 149796
+Progresso: 244 de 149796
+Lista paragraphs: 19 | Total: 66
+Lista PR: 1 | Total: 13
+Progresso: 245 de 149796
+Lista PR: 2 | Total: 13
+Progresso: 246 de 149796
+Lista PR: 3 | Total: 13
+Progresso: 247 de 149796
+Lista PR: 4 | Total: 13
+Progresso: 248 de 149796
+Lista PR: 5 | Total: 13
+Progresso: 249 de 149796
+Lista PR: 6 | Total: 13
+Progresso: 250 de 149796
+Lista PR: 7 | Total: 13
+Progresso: 251 de 149796
+Lista PR: 8 | Total: 13
+Progresso: 252 de 149796
+Lista PR: 9 | Total: 13
+Progresso: 253 de 149796
+Lista PR: 10 | Total: 13
+Progresso: 254 de 149796
+Lista PR: 11 | Total: 13
+Progresso: 255 de 149796
+Lista PR: 12 | Total: 13
+Progresso: 256 de 149796
+Lista PR: 13 | Total: 13
+Progresso: 257 de 149796
+Progresso: 258 de 149796
+Lista paragraphs: 20 | Total: 66
+Lista PR: 1 | Total: 13
+Progresso: 259 de 149796
+Lista PR: 2 | Total: 13
+Progresso: 260 de 149796
+Lista PR: 3 | Total: 13
+Progresso: 261 de 149796
+Lista PR: 4 | Total: 13
+Progresso: 262 de 149796
+Lista PR: 5 | Total: 13
+Progresso: 263 de 149796
+Lista PR: 6 | Total: 13
+Progresso: 264 de 149796
+Lista PR: 7 | Total: 13
+Progresso: 265 de 149796
+Lista PR: 8 | Total: 13
+Progresso: 266 de 149796
+Lista PR: 9 | Total: 13
+Progresso: 267 de 149796
+Lista PR: 10 | Total: 13
+Progresso: 268 de 149796
+Lista PR: 11 | Total: 13
+Progresso: 269 de 149796
+Lista PR: 12 | Total: 13
+Progresso: 270 de 149796
+Lista PR: 13 | Total: 13
+Progresso: 271 de 149796
+Progresso: 272 de 149796
+Lista paragraphs: 21 | Total: 66
+Lista PR: 1 | Total: 13
+Progresso: 273 de 149796
+Lista PR: 2 | Total: 13
+Progresso: 274 de 149796
+Lista PR: 3 | Total: 13
+Progresso: 275 de 149796
+Lista PR: 4 | Total: 13
+Progresso: 276 de 149796
+Lista PR: 5 | Total: 13
+Progresso: 277 de 149796
+Lista PR: 6 | Total: 13
+Progresso: 278 de 149796
+Lista PR: 7 | Total: 13
+Progresso: 279 de 149796
+Lista PR: 8 | Total: 13
+Progresso: 280 de 149796
+Lista PR: 9 | Total: 13
+Progresso: 281 de 149796
+Lista PR: 10 | Total: 13
+Progresso: 282 de 149796
+Lista PR: 11 | Total: 13
+Progresso: 283 de 149796
+Lista PR: 12 | Total: 13
+Progresso: 284 de 149796
+Lista PR: 13 | Total: 13
+Progresso: 285 de 149796
+Progresso: 286 de 149796
+Lista paragraphs: 22 | Total: 66
+Lista PR: 1 | Total: 12
+Progresso: 287 de 149796
+Lista PR: 2 | Total: 12
+Progresso: 288 de 149796
+Lista PR: 3 | Total: 12
+Progresso: 289 de 149796
+Lista PR: 4 | Total: 12
+Progresso: 290 de 149796
+Lista PR: 5 | Total: 12
+Progresso: 291 de 149796
+Lista PR: 6 | Total: 12
+Progresso: 292 de 149796
+Lista PR: 7 | Total: 12
+Progresso: 293 de 149796
+Lista PR: 8 | Total: 12
+Progresso: 294 de 149796
+Lista PR: 9 | Total: 12
+Progresso: 295 de 149796
+Lista PR: 10 | Total: 12
+Progresso: 296 de 149796
+Lista PR: 11 | Total: 12
+Progresso: 297 de 149796
+Lista PR: 12 | Total: 12
+Progresso: 298 de 149796
+Progresso: 299 de 149796
+Lista paragraphs: 23 | Total: 66
+Lista PR: 1 | Total: 13
+Progresso: 300 de 149796
+Lista PR: 2 | Total: 13
+Progresso: 301 de 149796
+Lista PR: 3 | Total: 13
+Progresso: 302 de 149796
+Lista PR: 4 | Total: 13
+Progresso: 303 de 149796
+Lista PR: 5 | Total: 13
+Progresso: 304 de 149796
+Lista PR: 6 | Total: 13
+Progresso: 305 de 149796
+Lista PR: 7 | Total: 13
+Progresso: 306 de 149796
+Lista PR: 8 | Total: 13
+Progresso: 307 de 149796
+Lista PR: 9 | Total: 13
+Progresso: 308 de 149796
+Lista PR: 10 | Total: 13
+Progresso: 309 de 149796
+Lista PR: 11 | Total: 13
+Progresso: 310 de 149796
+Lista PR: 12 | Total: 13
+Progresso: 311 de 149796
+Lista PR: 13 | Total: 13
+Progresso: 312 de 149796
+Progresso: 313 de 149796
+Lista paragraphs: 24 | Total: 66
+Lista PR: 1 | Total: 10
+Progresso: 314 de 149796
+Lista PR: 2 | Total: 10
+Progresso: 315 de 149796
+Lista PR: 3 | Total: 10
+Progresso: 316 de 149796
+Lista PR: 4 | Total: 10
+Progresso: 317 de 149796
+Lista PR: 5 | Total: 10
+Progresso: 318 de 149796
+Lista PR: 6 | Total: 10
+Progresso: 319 de 149796
+Lista PR: 7 | Total: 10
+Progresso: 320 de 149796
+Lista PR: 8 | Total: 10
+Progresso: 321 de 149796
+Lista PR: 9 | Total: 10
+Progresso: 322 de 149796
+Lista PR: 10 | Total: 10
+Progresso: 323 de 149796
+Progresso: 324 de 149796
+Lista paragraphs: 25 | Total: 66
+Lista PR: 1 | Total: 16
+Progresso: 325 de 149796
+Lista PR: 2 | Total: 16
+Progresso: 326 de 149796
+Lista PR: 3 | Total: 16
+Progresso: 327 de 149796
+Lista PR: 4 | Total: 16
+Progresso: 328 de 149796
+Lista PR: 5 | Total: 16
+Progresso: 329 de 149796
+Lista PR: 6 | Total: 16
+Progresso: 330 de 149796
+Lista PR: 7 | Total: 16
+Progresso: 331 de 149796
+Lista PR: 8 | Total: 16
+Progresso: 332 de 149796
+Lista PR: 9 | Total: 16
+Progresso: 333 de 149796
+Lista PR: 10 | Total: 16
+Progresso: 334 de 149796
+Lista PR: 11 | Total: 16
+Progresso: 335 de 149796
+Lista PR: 12 | Total: 16
+Progresso: 336 de 149796
+Lista PR: 13 | Total: 16
+Progresso: 337 de 149796
+Lista PR: 14 | Total: 16
+Progresso: 338 de 149796
+Lista PR: 15 | Total: 16
+Progresso: 339 de 149796
+Lista PR: 16 | Total: 16
+Progresso: 340 de 149796
+Progresso: 341 de 149796
+Lista paragraphs: 26 | Total: 66
+Lista PR: 1 | Total: 8
+Progresso: 342 de 149796
+Lista PR: 2 | Total: 8
+Progresso: 343 de 149796
+Lista PR: 3 | Total: 8
+Progresso: 344 de 149796
+Lista PR: 4 | Total: 8
+Progresso: 345 de 149796
+Lista PR: 5 | Total: 8
+Progresso: 346 de 149796
+Lista PR: 6 | Total: 8
+Progresso: 347 de 149796
+Lista PR: 7 | Total: 8
+Progresso: 348 de 149796
+Lista PR: 8 | Total: 8
+Progresso: 349 de 149796
+Progresso: 350 de 149796
+Lista paragraphs: 27 | Total: 66
+Lista PR: 1 | Total: 13
+Progresso: 351 de 149796
+Lista PR: 2 | Total: 13
+Progresso: 352 de 149796
+Lista PR: 3 | Total: 13
+Progresso: 353 de 149796
+Lista PR: 4 | Total: 13
+Progresso: 354 de 149796
+Lista PR: 5 | Total: 13
+Progresso: 355 de 149796
+Lista PR: 6 | Total: 13
+Progresso: 356 de 149796
+Lista PR: 7 | Total: 13
+Progresso: 357 de 149796
+Lista PR: 8 | Total: 13
+Progresso: 358 de 149796
+Lista PR: 9 | Total: 13
+Progresso: 359 de 149796
+Lista PR: 10 | Total: 13
+Progresso: 360 de 149796
+Lista PR: 11 | Total: 13
+Progresso: 361 de 149796
+Lista PR: 12 | Total: 13
+Progresso: 362 de 149796
+Lista PR: 13 | Total: 13
+Progresso: 363 de 149796
+Progresso: 364 de 149796
+Lista paragraphs: 28 | Total: 66
+Lista PR: 1 | Total: 12
+Progresso: 365 de 149796
+Lista PR: 2 | Total: 12
+Progresso: 366 de 149796
+Lista PR: 3 | Total: 12
+Progresso: 367 de 149796
+Lista PR: 4 | Total: 12
+Progresso: 368 de 149796
+Lista PR: 5 | Total: 12
+Progresso: 369 de 149796
+Lista PR: 6 | Total: 12
+Progresso: 370 de 149796
+Lista PR: 7 | Total: 12
+Progresso: 371 de 149796
+Lista PR: 8 | Total: 12
+Progresso: 372 de 149796
+Lista PR: 9 | Total: 12
+Progresso: 373 de 149796
+Lista PR: 10 | Total: 12
+Progresso: 374 de 149796
+Lista PR: 11 | Total: 12
+Progresso: 375 de 149796
+Lista PR: 12 | Total: 12
+Progresso: 376 de 149796
+Progresso: 377 de 149796
+Lista paragraphs: 29 | Total: 66
+Lista PR: 1 | Total: 12
+Progresso: 378 de 149796
+Lista PR: 2 | Total: 12
+Progresso: 379 de 149796
+Lista PR: 3 | Total: 12
+Progresso: 380 de 149796
+Lista PR: 4 | Total: 12
+Progresso: 381 de 149796
+Lista PR: 5 | Total: 12
+Progresso: 382 de 149796
+Lista PR: 6 | Total: 12
+Progresso: 383 de 149796
+Lista PR: 7 | Total: 12
+Progresso: 384 de 149796
+Lista PR: 8 | Total: 12
+Progresso: 385 de 149796
+Lista PR: 9 | Total: 12
+Progresso: 386 de 149796
+Lista PR: 10 | Total: 12
+Progresso: 387 de 149796
+Lista PR: 11 | Total: 12
+Progresso: 388 de 149796
+Lista PR: 12 | Total: 12
+Progresso: 389 de 149796
+Progresso: 390 de 149796
+Lista paragraphs: 30 | Total: 66
+Lista PR: 1 | Total: 10
+Progresso: 391 de 149796
+Lista PR: 2 | Total: 10
+Progresso: 392 de 149796
+Lista PR: 3 | Total: 10
+Progresso: 393 de 149796
+Lista PR: 4 | Total: 10
+Progresso: 394 de 149796
+Lista PR: 5 | Total: 10
+Progresso: 395 de 149796
+Lista PR: 6 | Total: 10
+Progresso: 396 de 149796
+Lista PR: 7 | Total: 10
+Progresso: 397 de 149796
+Lista PR: 8 | Total: 10
+Progresso: 398 de 149796
+Lista PR: 9 | Total: 10
+Progresso: 399 de 149796
+Lista PR: 10 | Total: 10
+Progresso: 400 de 149796
+Progresso: 401 de 149796
+Lista paragraphs: 31 | Total: 66
+Lista PR: 1 | Total: 9
+Progresso: 402 de 149796
+Lista PR: 2 | Total: 9
+Progresso: 403 de 149796
+Lista PR: 3 | Total: 9
+Progresso: 404 de 149796
+Lista PR: 4 | Total: 9
+Progresso: 405 de 149796
+Lista PR: 5 | Total: 9
+Progresso: 406 de 149796
+Lista PR: 6 | Total: 9
+Progresso: 407 de 149796
+Lista PR: 7 | Total: 9
+Progresso: 408 de 149796
+Lista PR: 8 | Total: 9
+Progresso: 409 de 149796
+Lista PR: 9 | Total: 9
+Progresso: 410 de 149796
+Progresso: 411 de 149796
+Lista paragraphs: 32 | Total: 66
+Lista PR: 1 | Total: 12
+Progresso: 412 de 149796
+Lista PR: 2 | Total: 12
+Progresso: 413 de 149796
+Lista PR: 3 | Total: 12
+Progresso: 414 de 149796
+Lista PR: 4 | Total: 12
+Progresso: 415 de 149796
+Lista PR: 5 | Total: 12
+Progresso: 416 de 149796
+Lista PR: 6 | Total: 12
+Progresso: 417 de 149796
+Lista PR: 7 | Total: 12
+Progresso: 418 de 149796
+Lista PR: 8 | Total: 12
+Progresso: 419 de 149796
+Lista PR: 9 | Total: 12
+Progresso: 420 de 149796
+Lista PR: 10 | Total: 12
+Progresso: 421 de 149796
+Lista PR: 11 | Total: 12
+Progresso: 422 de 149796
+Lista PR: 12 | Total: 12
+Progresso: 423 de 149796
+Progresso: 424 de 149796
+Lista paragraphs: 33 | Total: 66
+Lista PR: 1 | Total: 4
+Progresso: 425 de 149796
+Lista PR: 2 | Total: 4
+Progresso: 426 de 149796
+Lista PR: 3 | Total: 4
+Progresso: 427 de 149796
+Lista PR: 4 | Total: 4
+Progresso: 428 de 149796
+Progresso: 429 de 149796
+Lista paragraphs: 34 | Total: 66
+Lista PR: 1 | Total: 13
+Progresso: 430 de 149796
+Lista PR: 2 | Total: 13
+Progresso: 431 de 149796
+Lista PR: 3 | Total: 13
+Progresso: 432 de 149796
+Lista PR: 4 | Total: 13
+Progresso: 433 de 149796
+Lista PR: 5 | Total: 13
+Progresso: 434 de 149796
+Lista PR: 6 | Total: 13
+Progresso: 435 de 149796
+Lista PR: 7 | Total: 13
+Progresso: 436 de 149796
+Lista PR: 8 | Total: 13
+Progresso: 437 de 149796
+Lista PR: 9 | Total: 13
+Progresso: 438 de 149796
+Lista PR: 10 | Total: 13
+Progresso: 439 de 149796
+Lista PR: 11 | Total: 13
+Progresso: 440 de 149796
+Lista PR: 12 | Total: 13
+Progresso: 441 de 149796
+Lista PR: 13 | Total: 13
+Progresso: 442 de 149796
+Progresso: 443 de 149796
+Lista paragraphs: 35 | Total: 66
+Lista PR: 1 | Total: 12
+Progresso: 444 de 149796
+Lista PR: 2 | Total: 12
+Progresso: 445 de 149796
+Lista PR: 3 | Total: 12
+Progresso: 446 de 149796
+Lista PR: 4 | Total: 12
+Progresso: 447 de 149796
+Lista PR: 5 | Total: 12
+Progresso: 448 de 149796
+Lista PR: 6 | Total: 12
+Progresso: 449 de 149796
+Lista PR: 7 | Total: 12
+Progresso: 450 de 149796
+Lista PR: 8 | Total: 12
+Progresso: 451 de 149796
+Lista PR: 9 | Total: 12
+Progresso: 452 de 149796
+Lista PR: 10 | Total: 12
+Progresso: 453 de 149796
+Lista PR: 11 | Total: 12
+Progresso: 454 de 149796
+Lista PR: 12 | Total: 12
+Progresso: 455 de 149796
+Progresso: 456 de 149796
+Lista paragraphs: 36 | Total: 66
+Lista PR: 1 | Total: 13
+Progresso: 457 de 149796
+Lista PR: 2 | Total: 13
+Progresso: 458 de 149796
+Lista PR: 3 | Total: 13
+Progresso: 459 de 149796
+Lista PR: 4 | Total: 13
+Progresso: 460 de 149796
+Lista PR: 5 | Total: 13
+Progresso: 461 de 149796
+Lista PR: 6 | Total: 13
+Progresso: 462 de 149796
+Lista PR: 7 | Total: 13
+Progresso: 463 de 149796
+Lista PR: 8 | Total: 13
+Progresso: 464 de 149796
+Lista PR: 9 | Total: 13
+Progresso: 465 de 149796
+Lista PR: 10 | Total: 13
+Progresso: 466 de 149796
+Lista PR: 11 | Total: 13
+Progresso: 467 de 149796
+Lista PR: 12 | Total: 13
+Progresso: 468 de 149796
+Lista PR: 13 | Total: 13
+Progresso: 469 de 149796
+Progresso: 470 de 149796
+Lista paragraphs: 37 | Total: 66
+Lista PR: 1 | Total: 9
+Progresso: 471 de 149796
+Lista PR: 2 | Total: 9
+Progresso: 472 de 149796
+Lista PR: 3 | Total: 9
+Progresso: 473 de 149796
+Lista PR: 4 | Total: 9
+Progresso: 474 de 149796
+Lista PR: 5 | Total: 9
+Progresso: 475 de 149796
+Lista PR: 6 | Total: 9
+Progresso: 476 de 149796
+Lista PR: 7 | Total: 9
+Progresso: 477 de 149796
+Lista PR: 8 | Total: 9
+Progresso: 478 de 149796
+Lista PR: 9 | Total: 9
+Progresso: 479 de 149796
+Progresso: 480 de 149796
+Lista paragraphs: 38 | Total: 66
+Lista PR: 1 | Total: 12
+Progresso: 481 de 149796
+Lista PR: 2 | Total: 12
+Progresso: 482 de 149796
+Lista PR: 3 | Total: 12
+Progresso: 483 de 149796
+Lista PR: 4 | Total: 12
+Progresso: 484 de 149796
+Lista PR: 5 | Total: 12
+Progresso: 485 de 149796
+Lista PR: 6 | Total: 12
+Progresso: 486 de 149796
+Lista PR: 7 | Total: 12
+Progresso: 487 de 149796
+Lista PR: 8 | Total: 12
+Progresso: 488 de 149796
+Lista PR: 9 | Total: 12
+Progresso: 489 de 149796
+Lista PR: 10 | Total: 12
+Progresso: 490 de 149796
+Lista PR: 11 | Total: 12
+Progresso: 491 de 149796
+Lista PR: 12 | Total: 12
+Progresso: 492 de 149796
+Progresso: 493 de 149796
+Lista paragraphs: 39 | Total: 66
+Lista PR: 1 | Total: 11
+Progresso: 494 de 149796
+Lista PR: 2 | Total: 11
+Progresso: 495 de 149796
+Lista PR: 3 | Total: 11
+Progresso: 496 de 149796
+Lista PR: 4 | Total: 11
+Progresso: 497 de 149796
+Lista PR: 5 | Total: 11
+Progresso: 498 de 149796
+Lista PR: 6 | Total: 11
+Progresso: 499 de 149796
+Lista PR: 7 | Total: 11
+Progresso: 500 de 149796
+Lista PR: 8 | Total: 11
+Progresso: 501 de 149796
+Lista PR: 9 | Total: 11
+Progresso: 502 de 149796
+Lista PR: 10 | Total: 11
+Progresso: 503 de 149796
+Lista PR: 11 | Total: 11
+Progresso: 504 de 149796
+Progresso: 505 de 149796
+Lista paragraphs: 40 | Total: 66
+Lista PR: 1 | Total: 8
+Progresso: 506 de 149796
+Lista PR: 2 | Total: 8
+Progresso: 507 de 149796
+Lista PR: 3 | Total: 8
+Progresso: 508 de 149796
+Lista PR: 4 | Total: 8
+Progresso: 509 de 149796
+Lista PR: 5 | Total: 8
+Progresso: 510 de 149796
+Lista PR: 6 | Total: 8
+Progresso: 511 de 149796
+Lista PR: 7 | Total: 8
+Progresso: 512 de 149796
+Lista PR: 8 | Total: 8
+Progresso: 513 de 149796
+Progresso: 514 de 149796
+Lista paragraphs: 41 | Total: 66
+Lista PR: 1 | Total: 12
+Progresso: 515 de 149796
+Lista PR: 2 | Total: 12
+Progresso: 516 de 149796
+Lista PR: 3 | Total: 12
+Progresso: 517 de 149796
+Lista PR: 4 | Total: 12
+Progresso: 518 de 149796
+Lista PR: 5 | Total: 12
+Progresso: 519 de 149796
+Lista PR: 6 | Total: 12
+Progresso: 520 de 149796
+Lista PR: 7 | Total: 12
+Progresso: 521 de 149796
+Lista PR: 8 | Total: 12
+Progresso: 522 de 149796
+Lista PR: 9 | Total: 12
+Progresso: 523 de 149796
+Lista PR: 10 | Total: 12
+Progresso: 524 de 149796
+Lista PR: 11 | Total: 12
+Progresso: 525 de 149796
+Lista PR: 12 | Total: 12
+Progresso: 526 de 149796
+Progresso: 527 de 149796
+Lista paragraphs: 42 | Total: 66
+Lista PR: 1 | Total: 12
+Progresso: 528 de 149796
+Lista PR: 2 | Total: 12
+Progresso: 529 de 149796
+Lista PR: 3 | Total: 12
+Progresso: 530 de 149796
+Lista PR: 4 | Total: 12
+Progresso: 531 de 149796
+Lista PR: 5 | Total: 12
+Progresso: 532 de 149796
+Lista PR: 6 | Total: 12
+Progresso: 533 de 149796
+Lista PR: 7 | Total: 12
+Progresso: 534 de 149796
+Lista PR: 8 | Total: 12
+Progresso: 535 de 149796
+Lista PR: 9 | Total: 12
+Progresso: 536 de 149796
+Lista PR: 10 | Total: 12
+Progresso: 537 de 149796
+Lista PR: 11 | Total: 12
+Progresso: 538 de 149796
+Lista PR: 12 | Total: 12
+Progresso: 539 de 149796
+Progresso: 540 de 149796
+Lista paragraphs: 43 | Total: 66
+Lista PR: 1 | Total: 8
+Progresso: 541 de 149796
+Lista PR: 2 | Total: 8
+Progresso: 542 de 149796
+Lista PR: 3 | Total: 8
+Progresso: 543 de 149796
+Lista PR: 4 | Total: 8
+Progresso: 544 de 149796
+Lista PR: 5 | Total: 8
+Progresso: 545 de 149796
+Lista PR: 6 | Total: 8
+Progresso: 546 de 149796
+Lista PR: 7 | Total: 8
+Progresso: 547 de 149796
+Lista PR: 8 | Total: 8
+Progresso: 548 de 149796
+Progresso: 549 de 149796
+Lista paragraphs: 44 | Total: 66
+Lista PR: 1 | Total: 10
+Progresso: 550 de 149796
+Lista PR: 2 | Total: 10
+Progresso: 551 de 149796
+Lista PR: 3 | Total: 10
+Progresso: 552 de 149796
+Lista PR: 4 | Total: 10
+Progresso: 553 de 149796
+Lista PR: 5 | Total: 10
+Progresso: 554 de 149796
+Lista PR: 6 | Total: 10
+Progresso: 555 de 149796
+Lista PR: 7 | Total: 10
+Progresso: 556 de 149796
+Lista PR: 8 | Total: 10
+Progresso: 557 de 149796
+Lista PR: 9 | Total: 10
+Progresso: 558 de 149796
+Lista PR: 10 | Total: 10
+Progresso: 559 de 149796
+Progresso: 560 de 149796
+Lista paragraphs: 45 | Total: 66
+Lista PR: 1 | Total: 11
+Progresso: 561 de 149796
+Lista PR: 2 | Total: 11
+Progresso: 562 de 149796
+Lista PR: 3 | Total: 11
+Progresso: 563 de 149796
+Lista PR: 4 | Total: 11
+Progresso: 564 de 149796
+Lista PR: 5 | Total: 11
+Progresso: 565 de 149796
+Lista PR: 6 | Total: 11
+Progresso: 566 de 149796
+Lista PR: 7 | Total: 11
+Progresso: 567 de 149796
+Lista PR: 8 | Total: 11
+Progresso: 568 de 149796
+Lista PR: 9 | Total: 11
+Progresso: 569 de 149796
+Lista PR: 10 | Total: 11
+Progresso: 570 de 149796
+Lista PR: 11 | Total: 11
+Progresso: 571 de 149796
+Progresso: 572 de 149796
+Lista paragraphs: 46 | Total: 66
+Lista PR: 1 | Total: 13
+Progresso: 573 de 149796
+Lista PR: 2 | Total: 13
+Progresso: 574 de 149796
+Lista PR: 3 | Total: 13
+Progresso: 575 de 149796
+Lista PR: 4 | Total: 13
+Progresso: 576 de 149796
+Lista PR: 5 | Total: 13
+Progresso: 577 de 149796
+Lista PR: 6 | Total: 13
+Progresso: 578 de 149796
+Lista PR: 7 | Total: 13
+Progresso: 579 de 149796
+Lista PR: 8 | Total: 13
+Progresso: 580 de 149796
+Lista PR: 9 | Total: 13
+Progresso: 581 de 149796
+Lista PR: 10 | Total: 13
+Progresso: 582 de 149796
+Lista PR: 11 | Total: 13
+Progresso: 583 de 149796
+Lista PR: 12 | Total: 13
+Progresso: 584 de 149796
+Lista PR: 13 | Total: 13
+Progresso: 585 de 149796
+Progresso: 586 de 149796
+Lista paragraphs: 47 | Total: 66
+Lista PR: 1 | Total: 7
+Progresso: 587 de 149796
+Lista PR: 2 | Total: 7
+Progresso: 588 de 149796
+Lista PR: 3 | Total: 7
+Progresso: 589 de 149796
+Lista PR: 4 | Total: 7
+Progresso: 590 de 149796
+Lista PR: 5 | Total: 7
+Progresso: 591 de 149796
+Lista PR: 6 | Total: 7
+Progresso: 592 de 149796
+Lista PR: 7 | Total: 7
+Progresso: 593 de 149796
+Progresso: 594 de 149796
+Lista paragraphs: 48 | Total: 66
+Lista PR: 1 | Total: 8
+Progresso: 595 de 149796
+Lista PR: 2 | Total: 8
+Progresso: 596 de 149796
+Lista PR: 3 | Total: 8
+Progresso: 597 de 149796
+Lista PR: 4 | Total: 8
+Progresso: 598 de 149796
+Lista PR: 5 | Total: 8
+Progresso: 599 de 149796
+Lista PR: 6 | Total: 8
+Progresso: 600 de 149796
+Lista PR: 7 | Total: 8
+Progresso: 601 de 149796
+Lista PR: 8 | Total: 8
+Progresso: 602 de 149796
+Progresso: 603 de 149796
+Lista paragraphs: 49 | Total: 66
+Lista PR: 1 | Total: 10
+Progresso: 604 de 149796
+Lista PR: 2 | Total: 10
+Progresso: 605 de 149796
+Lista PR: 3 | Total: 10
+Progresso: 606 de 149796
+Lista PR: 4 | Total: 10
+Progresso: 607 de 149796
+Lista PR: 5 | Total: 10
+Progresso: 608 de 149796
+Lista PR: 6 | Total: 10
+Progresso: 609 de 149796
+Lista PR: 7 | Total: 10
+Progresso: 610 de 149796
+Lista PR: 8 | Total: 10
+Progresso: 611 de 149796
+Lista PR: 9 | Total: 10
+Progresso: 612 de 149796
+Lista PR: 10 | Total: 10
+Progresso: 613 de 149796
+Progresso: 614 de 149796
+Lista paragraphs: 50 | Total: 66
+Lista PR: 1 | Total: 10
+Progresso: 615 de 149796
+Lista PR: 2 | Total: 10
+Progresso: 616 de 149796
+Lista PR: 3 | Total: 10
+Progresso: 617 de 149796
+Lista PR: 4 | Total: 10
+Progresso: 618 de 149796
+Lista PR: 5 | Total: 10
+Progresso: 619 de 149796
+Lista PR: 6 | Total: 10
+Progresso: 620 de 149796
+Lista PR: 7 | Total: 10
+Progresso: 621 de 149796
+Lista PR: 8 | Total: 10
+Progresso: 622 de 149796
+Lista PR: 9 | Total: 10
+Progresso: 623 de 149796
+Lista PR: 10 | Total: 10
+Progresso: 624 de 149796
+Progresso: 625 de 149796
+Lista paragraphs: 51 | Total: 66
+Lista PR: 1 | Total: 12
+Progresso: 626 de 149796
+Lista PR: 2 | Total: 12
+Progresso: 627 de 149796
+Lista PR: 3 | Total: 12
+Progresso: 628 de 149796
+Lista PR: 4 | Total: 12
+Progresso: 629 de 149796
+Lista PR: 5 | Total: 12
+Progresso: 630 de 149796
+Lista PR: 6 | Total: 12
+Progresso: 631 de 149796
+Lista PR: 7 | Total: 12
+Progresso: 632 de 149796
+Lista PR: 8 | Total: 12
+Progresso: 633 de 149796
+Lista PR: 9 | Total: 12
+Progresso: 634 de 149796
+Lista PR: 10 | Total: 12
+Progresso: 635 de 149796
+Lista PR: 11 | Total: 12
+Progresso: 636 de 149796
+Lista PR: 12 | Total: 12
+Progresso: 637 de 149796
+Progresso: 638 de 149796
+Lista paragraphs: 52 | Total: 66
+Lista PR: 1 | Total: 12
+Progresso: 639 de 149796
+Lista PR: 2 | Total: 12
+Progresso: 640 de 149796
+Lista PR: 3 | Total: 12
+Progresso: 641 de 149796
+Lista PR: 4 | Total: 12
+Progresso: 642 de 149796
+Lista PR: 5 | Total: 12
+Progresso: 643 de 149796
+Lista PR: 6 | Total: 12
+Progresso: 644 de 149796
+Lista PR: 7 | Total: 12
+Progresso: 645 de 149796
+Lista PR: 8 | Total: 12
+Progresso: 646 de 149796
+Lista PR: 9 | Total: 12
+Progresso: 647 de 149796
+Lista PR: 10 | Total: 12
+Progresso: 648 de 149796
+Lista PR: 11 | Total: 12
+Progresso: 649 de 149796
+Lista PR: 12 | Total: 12
+Progresso: 650 de 149796
+Progresso: 651 de 149796
+Lista paragraphs: 53 | Total: 66
+Lista PR: 1 | Total: 12
+Progresso: 652 de 149796
+Lista PR: 2 | Total: 12
+Progresso: 653 de 149796
+Lista PR: 3 | Total: 12
+Progresso: 654 de 149796
+Lista PR: 4 | Total: 12
+Progresso: 655 de 149796
+Lista PR: 5 | Total: 12
+Progresso: 656 de 149796
+Lista PR: 6 | Total: 12
+Progresso: 657 de 149796
+Lista PR: 7 | Total: 12
+Progresso: 658 de 149796
+Lista PR: 8 | Total: 12
+Progresso: 659 de 149796
+Lista PR: 9 | Total: 12
+Progresso: 660 de 149796
+Lista PR: 10 | Total: 12
+Progresso: 661 de 149796
+Lista PR: 11 | Total: 12
+Progresso: 662 de 149796
+Lista PR: 12 | Total: 12
+Progresso: 663 de 149796
+Progresso: 664 de 149796
+Lista paragraphs: 54 | Total: 66
+Lista PR: 1 | Total: 15
+Progresso: 665 de 149796
+Lista PR: 2 | Total: 15
+Progresso: 666 de 149796
+Lista PR: 3 | Total: 15
+Progresso: 667 de 149796
+Lista PR: 4 | Total: 15
+Progresso: 668 de 149796
+Lista PR: 5 | Total: 15
+Progresso: 669 de 149796
+Lista PR: 6 | Total: 15
+Progresso: 670 de 149796
+Lista PR: 7 | Total: 15
+Progresso: 671 de 149796
+Lista PR: 8 | Total: 15
+Progresso: 672 de 149796
+Lista PR: 9 | Total: 15
+Progresso: 673 de 149796
+Lista PR: 10 | Total: 15
+Progresso: 674 de 149796
+Lista PR: 11 | Total: 15
+Progresso: 675 de 149796
+Lista PR: 12 | Total: 15
+Progresso: 676 de 149796
+Lista PR: 13 | Total: 15
+Progresso: 677 de 149796
+Lista PR: 14 | Total: 15
+Progresso: 678 de 149796
+Lista PR: 15 | Total: 15
+Progresso: 679 de 149796
+Progresso: 680 de 149796
+Lista paragraphs: 55 | Total: 66
+Lista PR: 1 | Total: 13
+Progresso: 681 de 149796
+Lista PR: 2 | Total: 13
+Progresso: 682 de 149796
+Lista PR: 3 | Total: 13
+Progresso: 683 de 149796
+Lista PR: 4 | Total: 13
+Progresso: 684 de 149796
+Lista PR: 5 | Total: 13
+Progresso: 685 de 149796
+Lista PR: 6 | Total: 13
+Progresso: 686 de 149796
+Lista PR: 7 | Total: 13
+Progresso: 687 de 149796
+Lista PR: 8 | Total: 13
+Progresso: 688 de 149796
+Lista PR: 9 | Total: 13
+Progresso: 689 de 149796
+Lista PR: 10 | Total: 13
+Progresso: 690 de 149796
+Lista PR: 11 | Total: 13
+Progresso: 691 de 149796
+Lista PR: 12 | Total: 13
+Progresso: 692 de 149796
+Lista PR: 13 | Total: 13
+Progresso: 693 de 149796
+Progresso: 694 de 149796
+Lista paragraphs: 56 | Total: 66
+Lista PR: 1 | Total: 12
+Progresso: 695 de 149796
+Lista PR: 2 | Total: 12
+Progresso: 696 de 149796
+Lista PR: 3 | Total: 12
+Progresso: 697 de 149796
+Lista PR: 4 | Total: 12
+Progresso: 698 de 149796
+Lista PR: 5 | Total: 12
+Progresso: 699 de 149796
+Lista PR: 6 | Total: 12
+Progresso: 700 de 149796
+Lista PR: 7 | Total: 12
+Progresso: 701 de 149796
+Lista PR: 8 | Total: 12
+Progresso: 702 de 149796
+Lista PR: 9 | Total: 12
+Progresso: 703 de 149796
+Lista PR: 10 | Total: 12
+Progresso: 704 de 149796
+Lista PR: 11 | Total: 12
+Progresso: 705 de 149796
+Lista PR: 12 | Total: 12
+Progresso: 706 de 149796
+Progresso: 707 de 149796
+Lista paragraphs: 57 | Total: 66
+Lista PR: 1 | Total: 13
+Progresso: 708 de 149796
+Lista PR: 2 | Total: 13
+Progresso: 709 de 149796
+Lista PR: 3 | Total: 13
+Progresso: 710 de 149796
+Lista PR: 4 | Total: 13
+Progresso: 711 de 149796
+Lista PR: 5 | Total: 13
+Progresso: 712 de 149796
+Lista PR: 6 | Total: 13
+Progresso: 713 de 149796
+Lista PR: 7 | Total: 13
+Progresso: 714 de 149796
+Lista PR: 8 | Total: 13
+Progresso: 715 de 149796
+Lista PR: 9 | Total: 13
+Progresso: 716 de 149796
+Lista PR: 10 | Total: 13
+Progresso: 717 de 149796
+Lista PR: 11 | Total: 13
+Progresso: 718 de 149796
+Lista PR: 12 | Total: 13
+Progresso: 719 de 149796
+Lista PR: 13 | Total: 13
+Progresso: 720 de 149796
+Progresso: 721 de 149796
+Lista paragraphs: 58 | Total: 66
+Lista PR: 1 | Total: 10
+Progresso: 722 de 149796
+Lista PR: 2 | Total: 10
+Progresso: 723 de 149796
+Lista PR: 3 | Total: 10
+Progresso: 724 de 149796
+Lista PR: 4 | Total: 10
+Progresso: 725 de 149796
+Lista PR: 5 | Total: 10
+Progresso: 726 de 149796
+Lista PR: 6 | Total: 10
+Progresso: 727 de 149796
+Lista PR: 7 | Total: 10
+Progresso: 728 de 149796
+Lista PR: 8 | Total: 10
+Progresso: 729 de 149796
+Lista PR: 9 | Total: 10
+Progresso: 730 de 149796
+Lista PR: 10 | Total: 10
+Progresso: 731 de 149796
+Progresso: 732 de 149796
+Lista paragraphs: 59 | Total: 66
+Lista PR: 1 | Total: 10
+Progresso: 733 de 149796
+Lista PR: 2 | Total: 10
+Progresso: 734 de 149796
+Lista PR: 3 | Total: 10
+Progresso: 735 de 149796
+Lista PR: 4 | Total: 10
+Progresso: 736 de 149796
+Lista PR: 5 | Total: 10
+Progresso: 737 de 149796
+Lista PR: 6 | Total: 10
+Progresso: 738 de 149796
+Lista PR: 7 | Total: 10
+Progresso: 739 de 149796
+Lista PR: 8 | Total: 10
+Progresso: 740 de 149796
+Lista PR: 9 | Total: 10
+Progresso: 741 de 149796
+Lista PR: 10 | Total: 10
+Progresso: 742 de 149796
+Progresso: 743 de 149796
+Lista paragraphs: 60 | Total: 66
+Lista PR: 1 | Total: 9
+Progresso: 744 de 149796
+Lista PR: 2 | Total: 9
+Progresso: 745 de 149796
+Lista PR: 3 | Total: 9
+Progresso: 746 de 149796
+Lista PR: 4 | Total: 9
+Progresso: 747 de 149796
+Lista PR: 5 | Total: 9
+Progresso: 748 de 149796
+Lista PR: 6 | Total: 9
+Progresso: 749 de 149796
+Lista PR: 7 | Total: 9
+Progresso: 750 de 149796
+Lista PR: 8 | Total: 9
+Progresso: 751 de 149796
+Lista PR: 9 | Total: 9
+Progresso: 752 de 149796
+Progresso: 753 de 149796
+Lista paragraphs: 61 | Total: 66
+Lista PR: 1 | Total: 11
+Progresso: 754 de 149796
+Lista PR: 2 | Total: 11
+Progresso: 755 de 149796
+Lista PR: 3 | Total: 11
+Progresso: 756 de 149796
+Lista PR: 4 | Total: 11
+Progresso: 757 de 149796
+Lista PR: 5 | Total: 11
+Progresso: 758 de 149796
+Lista PR: 6 | Total: 11
+Progresso: 759 de 149796
+Lista PR: 7 | Total: 11
+Progresso: 760 de 149796
+Lista PR: 8 | Total: 11
+Progresso: 761 de 149796
+Lista PR: 9 | Total: 11
+Progresso: 762 de 149796
+Lista PR: 10 | Total: 11
+Progresso: 763 de 149796
+Lista PR: 11 | Total: 11
+Progresso: 764 de 149796
+Progresso: 765 de 149796
+Lista paragraphs: 62 | Total: 66
+Lista PR: 1 | Total: 11
+Progresso: 766 de 149796
+Lista PR: 2 | Total: 11
+Progresso: 767 de 149796
+Lista PR: 3 | Total: 11
+Progresso: 768 de 149796
+Lista PR: 4 | Total: 11
+Progresso: 769 de 149796
+Lista PR: 5 | Total: 11
+Progresso: 770 de 149796
+Lista PR: 6 | Total: 11
+Progresso: 771 de 149796
+Lista PR: 7 | Total: 11
+Progresso: 772 de 149796
+Lista PR: 8 | Total: 11
+Progresso: 773 de 149796
+Lista PR: 9 | Total: 11
+Progresso: 774 de 149796
+Lista PR: 10 | Total: 11
+Progresso: 775 de 149796
+Lista PR: 11 | Total: 11
+Progresso: 776 de 149796
+Progresso: 777 de 149796
+Lista paragraphs: 63 | Total: 66
+Lista PR: 1 | Total: 8
+Progresso: 778 de 149796
+Lista PR: 2 | Total: 8
+Progresso: 779 de 149796
+Lista PR: 3 | Total: 8
+Progresso: 780 de 149796
+Lista PR: 4 | Total: 8
+Progresso: 781 de 149796
+Lista PR: 5 | Total: 8
+Progresso: 782 de 149796
+Lista PR: 6 | Total: 8
+Progresso: 783 de 149796
+Lista PR: 7 | Total: 8
+Progresso: 784 de 149796
+Lista PR: 8 | Total: 8
+Progresso: 785 de 149796
+Progresso: 786 de 149796
+Lista paragraphs: 64 | Total: 66
+Lista PR: 1 | Total: 9
+Progresso: 787 de 149796
+Lista PR: 2 | Total: 9
+Progresso: 788 de 149796
+Lista PR: 3 | Total: 9
+Progresso: 789 de 149796
+Lista PR: 4 | Total: 9
+Progresso: 790 de 149796
+Lista PR: 5 | Total: 9
+Progresso: 791 de 149796
+Lista PR: 6 | Total: 9
+Progresso: 792 de 149796
+Lista PR: 7 | Total: 9
+Progresso: 793 de 149796
+Lista PR: 8 | Total: 9
+Progresso: 794 de 149796
+Lista PR: 9 | Total: 9
+Progresso: 795 de 149796
+Progresso: 796 de 149796
+Lista paragraphs: 65 | Total: 66
+Lista PR: 1 | Total: 10
+Progresso: 797 de 149796
+Lista PR: 2 | Total: 10
+Progresso: 798 de 149796
+Lista PR: 3 | Total: 10
+Progresso: 799 de 149796
+Lista PR: 4 | Total: 10
+Progresso: 800 de 149796
+Lista PR: 5 | Total: 10
+Progresso: 801 de 149796
+Lista PR: 6 | Total: 10
+Progresso: 802 de 149796
+Lista PR: 7 | Total: 10
+Progresso: 803 de 149796
+Lista PR: 8 | Total: 10
+Progresso: 804 de 149796
+Lista PR: 9 | Total: 10
+Progresso: 805 de 149796
+Lista PR: 10 | Total: 10
+Progresso: 806 de 149796
+Progresso: 807 de 149796
+Lista paragraphs: 66 | Total: 66
+Lista PR: 1 | Total: 12
+Progresso: 808 de 149796
+Lista PR: 2 | Total: 12
+Progresso: 809 de 149796
+Lista PR: 3 | Total: 12
+Progresso: 810 de 149796
+Lista PR: 4 | Total: 12
+Progresso: 811 de 149796
+Lista PR: 5 | Total: 12
+Progresso: 812 de 149796
+Lista PR: 6 | Total: 12
+Progresso: 813 de 149796
+Lista PR: 7 | Total: 12
+Progresso: 814 de 149796
+Lista PR: 8 | Total: 12
+Progresso: 815 de 149796
+Lista PR: 9 | Total: 12
+Progresso: 816 de 149796
+Lista PR: 10 | Total: 12
+Progresso: 817 de 149796
+Lista PR: 11 | Total: 12
+Progresso: 818 de 149796
+Lista PR: 12 | Total: 12
+Progresso: 819 de 149796
+Progresso: 820 de 149796
+Lista dicionario: 2 | Total: 442
+Progresso: 821 de 149796
+Lista paragraphs: 1 | Total: 82
+Lista PR: 1 | Total: 19
+Progresso: 822 de 149796
+Lista PR: 2 | Total: 19
+Progresso: 823 de 149796
+Lista PR: 3 | Total: 19
+Progresso: 824 de 149796
+Lista PR: 4 | Total: 19
+Progresso: 825 de 149796
+Lista PR: 5 | Total: 19
+Progresso: 826 de 149796
+Lista PR: 6 | Total: 19
+Progresso: 827 de 149796
+Lista PR: 7 | Total: 19
+Progresso: 828 de 149796
+Lista PR: 8 | Total: 19
+Progresso: 829 de 149796
+Lista PR: 9 | Total: 19
+Progresso: 830 de 149796
+Lista PR: 10 | Total: 19
+Progresso: 831 de 149796
+Lista PR: 11 | Total: 19
+Progresso: 832 de 149796
+Lista PR: 12 | Total: 19
+Progresso: 833 de 149796
+Lista PR: 13 | Total: 19
+Progresso: 834 de 149796
+Lista PR: 14 | Total: 19
+Progresso: 835 de 149796
+Lista PR: 15 | Total: 19
+Progresso: 836 de 149796
+Lista PR: 16 | Total: 19
+Progresso: 837 de 149796
+Lista PR: 17 | Total: 19
+Progresso: 838 de 149796
+Lista PR: 18 | Total: 19
+Progresso: 839 de 149796
+Lista PR: 19 | Total: 19
+Progresso: 840 de 149796
+Progresso: 841 de 149796
+Lista paragraphs: 2 | Total: 82
+Lista PR: 1 | Total: 17
+Progresso: 842 de 149796
+Lista PR: 2 | Total: 17
+Progresso: 843 de 149796
+Lista PR: 3 | Total: 17
+Progresso: 844 de 149796
+Lista PR: 4 | Total: 17
+Progresso: 845 de 149796
+Lista PR: 5 | Total: 17
+Progresso: 846 de 149796
+Lista PR: 6 | Total: 17
+Progresso: 847 de 149796
+Lista PR: 7 | Total: 17
+Progresso: 848 de 149796
+Lista PR: 8 | Total: 17
+Progresso: 849 de 149796
+Lista PR: 9 | Total: 17
+Progresso: 850 de 149796
+Lista PR: 10 | Total: 17
+Progresso: 851 de 149796
+Lista PR: 11 | Total: 17
+Progresso: 852 de 149796
+Lista PR: 12 | Total: 17
+Progresso: 853 de 149796
+Lista PR: 13 | Total: 17
+Progresso: 854 de 149796
+Lista PR: 14 | Total: 17
+Progresso: 855 de 149796
+Lista PR: 15 | Total: 17
+Progresso: 856 de 149796
+Lista PR: 16 | Total: 17
+Progresso: 857 de 149796
+Lista PR: 17 | Total: 17
+Progresso: 858 de 149796
+Progresso: 859 de 149796
+Lista paragraphs: 3 | Total: 82
+Lista PR: 1 | Total: 17
+Progresso: 860 de 149796
+Lista PR: 2 | Total: 17
+Progresso: 861 de 149796
+Lista PR: 3 | Total: 17
+Progresso: 862 de 149796
+Lista PR: 4 | Total: 17
+Progresso: 863 de 149796
+Lista PR: 5 | Total: 17
+Progresso: 864 de 149796
+Lista PR: 6 | Total: 17
+Progresso: 865 de 149796
+Lista PR: 7 | Total: 17
+Progresso: 866 de 149796
+Lista PR: 8 | Total: 17
+Progresso: 867 de 149796
+Lista PR: 9 | Total: 17
+Progresso: 868 de 149796
+Lista PR: 10 | Total: 17
+Progresso: 869 de 149796
+Lista PR: 11 | Total: 17
+Progresso: 870 de 149796
+Lista PR: 12 | Total: 17
+Progresso: 871 de 149796
+Lista PR: 13 | Total: 17
+Progresso: 872 de 149796
+Lista PR: 14 | Total: 17
+Progresso: 873 de 149796
+Lista PR: 15 | Total: 17
+Progresso: 874 de 149796
+Lista PR: 16 | Total: 17
+Progresso: 875 de 149796
+Lista PR: 17 | Total: 17
+Progresso: 876 de 149796
+Progresso: 877 de 149796
+Lista paragraphs: 4 | Total: 82
+Lista PR: 1 | Total: 11
+Progresso: 878 de 149796
+Lista PR: 2 | Total: 11
+Progresso: 879 de 149796
+Lista PR: 3 | Total: 11
+Progresso: 880 de 149796
+Lista PR: 4 | Total: 11
+Progresso: 881 de 149796
+Lista PR: 5 | Total: 11
+Progresso: 882 de 149796
+Lista PR: 6 | Total: 11
+Progresso: 883 de 149796
+Lista PR: 7 | Total: 11
+Progresso: 884 de 149796
+Lista PR: 8 | Total: 11
+Progresso: 885 de 149796
+Lista PR: 9 | Total: 11
+Progresso: 886 de 149796
+Lista PR: 10 | Total: 11
+Progresso: 887 de 149796
+Lista PR: 11 | Total: 11
+Progresso: 888 de 149796
+Progresso: 889 de 149796
+Lista paragraphs: 5 | Total: 82
+Lista PR: 1 | Total: 16
+Progresso: 890 de 149796
+Lista PR: 2 | Total: 16
+Progresso: 891 de 149796
+Lista PR: 3 | Total: 16
+Progresso: 892 de 149796
+Lista PR: 4 | Total: 16
+Progresso: 893 de 149796
+Lista PR: 5 | Total: 16
+Progresso: 894 de 149796
+Lista PR: 6 | Total: 16
+Progresso: 895 de 149796
+Lista PR: 7 | Total: 16
+Progresso: 896 de 149796
+Lista PR: 8 | Total: 16
+Progresso: 897 de 149796
+Lista PR: 9 | Total: 16
+Progresso: 898 de 149796
+Lista PR: 10 | Total: 16
+Progresso: 899 de 149796
+Lista PR: 11 | Total: 16
+Progresso: 900 de 149796
+Lista PR: 12 | Total: 16
+Progresso: 901 de 149796
+Lista PR: 13 | Total: 16
+Progresso: 902 de 149796
+Lista PR: 14 | Total: 16
+Progresso: 903 de 149796
+Lista PR: 15 | Total: 16
+Progresso: 904 de 149796
+Lista PR: 16 | Total: 16
+Progresso: 905 de 149796
+Progresso: 906 de 149796
+Lista paragraphs: 6 | Total: 82
+Lista PR: 1 | Total: 11
+Progresso: 907 de 149796
+Lista PR: 2 | Total: 11
+Progresso: 908 de 149796
+Lista PR: 3 | Total: 11
+Progresso: 909 de 149796
+Lista PR: 4 | Total: 11
+Progresso: 910 de 149796
+Lista PR: 5 | Total: 11
+Progresso: 911 de 149796
+Lista PR: 6 | Total: 11
+Progresso: 912 de 149796
+Lista PR: 7 | Total: 11
+Progresso: 913 de 149796
+Lista PR: 8 | Total: 11
+Progresso: 914 de 149796
+Lista PR: 9 | Total: 11
+Progresso: 915 de 149796
+Lista PR: 10 | Total: 11
+Progresso: 916 de 149796
+Lista PR: 11 | Total: 11
+Progresso: 917 de 149796
+Progresso: 918 de 149796
+Lista paragraphs: 7 | Total: 82
+Lista PR: 1 | Total: 14
+Progresso: 919 de 149796
+Lista PR: 2 | Total: 14
+Progresso: 920 de 149796
+Lista PR: 3 | Total: 14
+Progresso: 921 de 149796
+Lista PR: 4 | Total: 14
+Progresso: 922 de 149796
+Lista PR: 5 | Total: 14
+Progresso: 923 de 149796
+Lista PR: 6 | Total: 14
+Progresso: 924 de 149796
+Lista PR: 7 | Total: 14
+Progresso: 925 de 149796
+Lista PR: 8 | Total: 14
+Progresso: 926 de 149796
+Lista PR: 9 | Total: 14
+Progresso: 927 de 149796
+Lista PR: 10 | Total: 14
+Progresso: 928 de 149796
+Lista PR: 11 | Total: 14
+Progresso: 929 de 149796
+Lista PR: 12 | Total: 14
+Progresso: 930 de 149796
+Lista PR: 13 | Total: 14
+Progresso: 931 de 149796
+Lista PR: 14 | Total: 14
+Progresso: 932 de 149796
+Progresso: 933 de 149796
+Lista paragraphs: 8 | Total: 82
+Lista PR: 1 | Total: 14
+Progresso: 934 de 149796
+Lista PR: 2 | Total: 14
+Progresso: 935 de 149796
+Lista PR: 3 | Total: 14
+Progresso: 936 de 149796
+Lista PR: 4 | Total: 14
+Progresso: 937 de 149796
+Lista PR: 5 | Total: 14
+Progresso: 938 de 149796
+Lista PR: 6 | Total: 14
+Progresso: 939 de 149796
+Lista PR: 7 | Total: 14
+Progresso: 940 de 149796
+Lista PR: 8 | Total: 14
+Progresso: 941 de 149796
+Lista PR: 9 | Total: 14
+Progresso: 942 de 149796
+Lista PR: 10 | Total: 14
+Progresso: 943 de 149796
+Lista PR: 11 | Total: 14
+Progresso: 944 de 149796
+Lista PR: 12 | Total: 14
+Progresso: 945 de 149796
+Lista PR: 13 | Total: 14
+Progresso: 946 de 149796
+Lista PR: 14 | Total: 14
+Progresso: 947 de 149796
+Progresso: 948 de 149796
+Lista paragraphs: 9 | Total: 82
+Lista PR: 1 | Total: 14
+Progresso: 949 de 149796
+Lista PR: 2 | Total: 14
+Progresso: 950 de 149796
+Lista PR: 3 | Total: 14
+Progresso: 951 de 149796
+Lista PR: 4 | Total: 14
+Progresso: 952 de 149796
+Lista PR: 5 | Total: 14
+Progresso: 953 de 149796
+Lista PR: 6 | Total: 14
+Progresso: 954 de 149796
+Lista PR: 7 | Total: 14
+Progresso: 955 de 149796
+Lista PR: 8 | Total: 14
+Progresso: 956 de 149796
+Lista PR: 9 | Total: 14
+Progresso: 957 de 149796
+Lista PR: 10 | Total: 14
+Progresso: 958 de 149796
+Lista PR: 11 | Total: 14
+Progresso: 959 de 149796
+Lista PR: 12 | Total: 14
+Progresso: 960 de 149796
+Lista PR: 13 | Total: 14
+Progresso: 961 de 149796
+Lista PR: 14 | Total: 14
+Progresso: 962 de 149796
+Progresso: 963 de 149796
+Lista paragraphs: 10 | Total: 82
+Lista PR: 1 | Total: 15
+Progresso: 964 de 149796
+Lista PR: 2 | Total: 15
+Progresso: 965 de 149796
+Lista PR: 3 | Total: 15
+Progresso: 966 de 149796
+Lista PR: 4 | Total: 15
+Progresso: 967 de 149796
+Lista PR: 5 | Total: 15
+Progresso: 968 de 149796
+Lista PR: 6 | Total: 15
+Progresso: 969 de 149796
+Lista PR: 7 | Total: 15
+Progresso: 970 de 149796
+Lista PR: 8 | Total: 15
+Progresso: 971 de 149796
+Lista PR: 9 | Total: 15
+Progresso: 972 de 149796
+Lista PR: 10 | Total: 15
+Progresso: 973 de 149796
+Lista PR: 11 | Total: 15
+Progresso: 974 de 149796
+Lista PR: 12 | Total: 15
+Progresso: 975 de 149796
+Lista PR: 13 | Total: 15
+Progresso: 976 de 149796
+Lista PR: 14 | Total: 15
+Progresso: 977 de 149796
+Lista PR: 15 | Total: 15
+Progresso: 978 de 149796
+Progresso: 979 de 149796
+Lista paragraphs: 11 | Total: 82
+Lista PR: 1 | Total: 9
+Progresso: 980 de 149796
+Lista PR: 2 | Total: 9
+Progresso: 981 de 149796
+Lista PR: 3 | Total: 9
+Progresso: 982 de 149796
+Lista PR: 4 | Total: 9
+Progresso: 983 de 149796
+Lista PR: 5 | Total: 9
+Progresso: 984 de 149796
+Lista PR: 6 | Total: 9
+Progresso: 985 de 149796
+Lista PR: 7 | Total: 9
+Progresso: 986 de 149796
+Lista PR: 8 | Total: 9
+Progresso: 987 de 149796
+Lista PR: 9 | Total: 9
+Progresso: 988 de 149796
+Progresso: 989 de 149796
+Lista paragraphs: 12 | Total: 82
+Lista PR: 1 | Total: 14
+Progresso: 990 de 149796
+Lista PR: 2 | Total: 14
+Progresso: 991 de 149796
+Lista PR: 3 | Total: 14
+Progresso: 992 de 149796
+Lista PR: 4 | Total: 14
+Progresso: 993 de 149796
+Lista PR: 5 | Total: 14
+Progresso: 994 de 149796
+Lista PR: 6 | Total: 14
+Progresso: 995 de 149796
+Lista PR: 7 | Total: 14
+Progresso: 996 de 149796
+Lista PR: 8 | Total: 14
+Progresso: 997 de 149796
+Lista PR: 9 | Total: 14
+Progresso: 998 de 149796
+Lista PR: 10 | Total: 14
+Progresso: 999 de 149796
+Lista PR: 11 | Total: 14
+Progresso: 1000 de 149796
+Lista PR: 12 | Total: 14
+Progresso: 1001 de 149796
+Lista PR: 13 | Total: 14
+Progresso: 1002 de 149796
+Lista PR: 14 | Total: 14
+Progresso: 1003 de 149796
+Progresso: 1004 de 149796
+Lista paragraphs: 13 | Total: 82
+Lista PR: 1 | Total: 11
+Progresso: 1005 de 149796
+Lista PR: 2 | Total: 11
+Progresso: 1006 de 149796
+Lista PR: 3 | Total: 11
+Progresso: 1007 de 149796
+Lista PR: 4 | Total: 11
+Progresso: 1008 de 149796
+Lista PR: 5 | Total: 11
+Progresso: 1009 de 149796
+Lista PR: 6 | Total: 11
+Progresso: 1010 de 149796
+Lista PR: 7 | Total: 11
+Progresso: 1011 de 149796
+Lista PR: 8 | Total: 11
+Progresso: 1012 de 149796
+Lista PR: 9 | Total: 11
+Progresso: 1013 de 149796
+Lista PR: 10 | Total: 11
+Progresso: 1014 de 149796
+Lista PR: 11 | Total: 11
+Progresso: 1015 de 149796
+Progresso: 1016 de 149796
+Lista paragraphs: 14 | Total: 82
+Lista PR: 1 | Total: 14
+Progresso: 1017 de 149796
+Lista PR: 2 | Total: 14
+Progresso: 1018 de 149796
+Lista PR: 3 | Total: 14
+Progresso: 1019 de 149796
+Lista PR: 4 | Total: 14
+Progresso: 1020 de 149796
+Lista PR: 5 | Total: 14
+Progresso: 1021 de 149796
+Lista PR: 6 | Total: 14
+Progresso: 1022 de 149796
+Lista PR: 7 | Total: 14
+Progresso: 1023 de 149796
+Lista PR: 8 | Total: 14
+Progresso: 1024 de 149796
+Lista PR: 9 | Total: 14
+Progresso: 1025 de 149796
+Lista PR: 10 | Total: 14
+Progresso: 1026 de 149796
+Lista PR: 11 | Total: 14
+Progresso: 1027 de 149796
+Lista PR: 12 | Total: 14
+Progresso: 1028 de 149796
+Lista PR: 13 | Total: 14
+Progresso: 1029 de 149796
+Lista PR: 14 | Total: 14
+Progresso: 1030 de 149796
+Progresso: 1031 de 149796
+Lista paragraphs: 15 | Total: 82
+Lista PR: 1 | Total: 13
+Progresso: 1032 de 149796
+Lista PR: 2 | Total: 13
+Progresso: 1033 de 149796
+Lista PR: 3 | Total: 13
+Progresso: 1034 de 149796
+Lista PR: 4 | Total: 13
+Progresso: 1035 de 149796
+Lista PR: 5 | Total: 13
+Progresso: 1036 de 149796
+Lista PR: 6 | Total: 13
+Progresso: 1037 de 149796
+Lista PR: 7 | Total: 13
+Progresso: 1038 de 149796
+Lista PR: 8 | Total: 13
+Progresso: 1039 de 149796
+Lista PR: 9 | Total: 13
+Progresso: 1040 de 149796
+Lista PR: 10 | Total: 13
+Progresso: 1041 de 149796
+Lista PR: 11 | Total: 13
+Progresso: 1042 de 149796
+Lista PR: 12 | Total: 13
+Progresso: 1043 de 149796
+Lista PR: 13 | Total: 13
+Progresso: 1044 de 149796
+Progresso: 1045 de 149796
+Lista paragraphs: 16 | Total: 82
+Lista PR: 1 | Total: 13
+Progresso: 1046 de 149796
+Lista PR: 2 | Total: 13
+Progresso: 1047 de 149796
+Lista PR: 3 | Total: 13
+Progresso: 1048 de 149796
+Lista PR: 4 | Total: 13
+Progresso: 1049 de 149796
+Lista PR: 5 | Total: 13
+Progresso: 1050 de 149796
+Lista PR: 6 | Total: 13
+Progresso: 1051 de 149796
+Lista PR: 7 | Total: 13
+Progresso: 1052 de 149796
+Lista PR: 8 | Total: 13
+Progresso: 1053 de 149796
+Lista PR: 9 | Total: 13
+Progresso: 1054 de 149796
+Lista PR: 10 | Total: 13
+Progresso: 1055 de 149796
+Lista PR: 11 | Total: 13
+Progresso: 1056 de 149796
+Lista PR: 12 | Total: 13
+Progresso: 1057 de 149796
+Lista PR: 13 | Total: 13
+Progresso: 1058 de 149796
+Progresso: 1059 de 149796
+Lista paragraphs: 17 | Total: 82
+Lista PR: 1 | Total: 14
+Progresso: 1060 de 149796
+Lista PR: 2 | Total: 14
+Progresso: 1061 de 149796
+Lista PR: 3 | Total: 14
+Progresso: 1062 de 149796
+Lista PR: 4 | Total: 14
+Progresso: 1063 de 149796
+Lista PR: 5 | Total: 14
+Progresso: 1064 de 149796
+Lista PR: 6 | Total: 14
+Progresso: 1065 de 149796
+Lista PR: 7 | Total: 14
+Progresso: 1066 de 149796
+Lista PR: 8 | Total: 14
+Progresso: 1067 de 149796
+Lista PR: 9 | Total: 14
+Progresso: 1068 de 149796
+Lista PR: 10 | Total: 14
+Progresso: 1069 de 149796
+Lista PR: 11 | Total: 14
+Progresso: 1070 de 149796
+Lista PR: 12 | Total: 14
+Progresso: 1071 de 149796
+Lista PR: 13 | Total: 14
+Progresso: 1072 de 149796
+Lista PR: 14 | Total: 14
+Progresso: 1073 de 149796
+Progresso: 1074 de 149796
+Lista paragraphs: 18 | Total: 82
+Lista PR: 1 | Total: 7
+Progresso: 1075 de 149796
+Lista PR: 2 | Total: 7
+Progresso: 1076 de 149796
+Lista PR: 3 | Total: 7
+Progresso: 1077 de 149796
+Lista PR: 4 | Total: 7
+Progresso: 1078 de 149796
+Lista PR: 5 | Total: 7
+Progresso: 1079 de 149796
+Lista PR: 6 | Total: 7
+Progresso: 1080 de 149796
+Lista PR: 7 | Total: 7
+Progresso: 1081 de 149796
+Progresso: 1082 de 149796
+Lista paragraphs: 19 | Total: 82
+Lista PR: 1 | Total: 11
+Progresso: 1083 de 149796
+Lista PR: 2 | Total: 11
+Progresso: 1084 de 149796
+Lista PR: 3 | Total: 11
+Progresso: 1085 de 149796
+Lista PR: 4 | Total: 11
+Progresso: 1086 de 149796
+Lista PR: 5 | Total: 11
+Progresso: 1087 de 149796
+Lista PR: 6 | Total: 11
+Progresso: 1088 de 149796
+Lista PR: 7 | Total: 11
+Progresso: 1089 de 149796
+Lista PR: 8 | Total: 11
+Progresso: 1090 de 149796
+Lista PR: 9 | Total: 11
+Progresso: 1091 de 149796
+Lista PR: 10 | Total: 11
+Progresso: 1092 de 149796
+Lista PR: 11 | Total: 11
+Progresso: 1093 de 149796
+Progresso: 1094 de 149796
+Lista paragraphs: 20 | Total: 82
+Lista PR: 1 | Total: 10
+Progresso: 1095 de 149796
+Lista PR: 2 | Total: 10
+Progresso: 1096 de 149796
+Lista PR: 3 | Total: 10
+Progresso: 1097 de 149796
+Lista PR: 4 | Total: 10
+Progresso: 1098 de 149796
+Lista PR: 5 | Total: 10
+Progresso: 1099 de 149796
+Lista PR: 6 | Total: 10
+Progresso: 1100 de 149796
+Lista PR: 7 | Total: 10
+Progresso: 1101 de 149796
+Lista PR: 8 | Total: 10
+Progresso: 1102 de 149796
+Lista PR: 9 | Total: 10
+Progresso: 1103 de 149796
+Lista PR: 10 | Total: 10
+Progresso: 1104 de 149796
+Progresso: 1105 de 149796
+Lista paragraphs: 21 | Total: 82
+Lista PR: 1 | Total: 9
+Progresso: 1106 de 149796
+Lista PR: 2 | Total: 9
+Progresso: 1107 de 149796
+Lista PR: 3 | Total: 9
+Progresso: 1108 de 149796
+Lista PR: 4 | Total: 9
+Progresso: 1109 de 149796
+Lista PR: 5 | Total: 9
+Progresso: 1110 de 149796
+Lista PR: 6 | Total: 9
+Progresso: 1111 de 149796
+Lista PR: 7 | Total: 9
+Progresso: 1112 de 149796
+Lista PR: 8 | Total: 9
+Progresso: 1113 de 149796
+Lista PR: 9 | Total: 9
+Progresso: 1114 de 149796
+Progresso: 1115 de 149796
+Lista paragraphs: 22 | Total: 82
+Lista PR: 1 | Total: 13
+Progresso: 1116 de 149796
+Lista PR: 2 | Total: 13
+Progresso: 1117 de 149796
+Lista PR: 3 | Total: 13
+Progresso: 1118 de 149796
+Lista PR: 4 | Total: 13
+Progresso: 1119 de 149796
+Lista PR: 5 | Total: 13
+Progresso: 1120 de 149796
+Lista PR: 6 | Total: 13
+Progresso: 1121 de 149796
+Lista PR: 7 | Total: 13
+Progresso: 1122 de 149796
+Lista PR: 8 | Total: 13
+Progresso: 1123 de 149796
+Lista PR: 9 | Total: 13
+Progresso: 1124 de 149796
+Lista PR: 10 | Total: 13
+Progresso: 1125 de 149796
+Lista PR: 11 | Total: 13
+Progresso: 1126 de 149796
+Lista PR: 12 | Total: 13
+Progresso: 1127 de 149796
+Lista PR: 13 | Total: 13
+Progresso: 1128 de 149796
+Progresso: 1129 de 149796
+Lista paragraphs: 23 | Total: 82
+Lista PR: 1 | Total: 6
+Progresso: 1130 de 149796
+Lista PR: 2 | Total: 6
+Progresso: 1131 de 149796
+Lista PR: 3 | Total: 6
+Progresso: 1132 de 149796
+Lista PR: 4 | Total: 6
+Progresso: 1133 de 149796
+Lista PR: 5 | Total: 6
+Progresso: 1134 de 149796
+Lista PR: 6 | Total: 6
+Progresso: 1135 de 149796
+Progresso: 1136 de 149796
+Lista paragraphs: 24 | Total: 82
+Lista PR: 1 | Total: 11
+Progresso: 1137 de 149796
+Lista PR: 2 | Total: 11
+Progresso: 1138 de 149796
+Lista PR: 3 | Total: 11
+Progresso: 1139 de 149796
+Lista PR: 4 | Total: 11
+Progresso: 1140 de 149796
+Lista PR: 5 | Total: 11
+Progresso: 1141 de 149796
+Lista PR: 6 | Total: 11
+Progresso: 1142 de 149796
+Lista PR: 7 | Total: 11
+Progresso: 1143 de 149796
+Lista PR: 8 | Total: 11
+Progresso: 1144 de 149796
+Lista PR: 9 | Total: 11
+Progresso: 1145 de 149796
+Lista PR: 10 | Total: 11
+Progresso: 1146 de 149796
+Lista PR: 11 | Total: 11
+Progresso: 1147 de 149796
+Progresso: 1148 de 149796
+Lista paragraphs: 25 | Total: 82
+Lista PR: 1 | Total: 11
+Progresso: 1149 de 149796
+Lista PR: 2 | Total: 11
+Progresso: 1150 de 149796
+Lista PR: 3 | Total: 11
+Progresso: 1151 de 149796
+Lista PR: 4 | Total: 11
+Progresso: 1152 de 149796
+Lista PR: 5 | Total: 11
+Progresso: 1153 de 149796
+Lista PR: 6 | Total: 11
+Progresso: 1154 de 149796
+Lista PR: 7 | Total: 11
+Progresso: 1155 de 149796
+Lista PR: 8 | Total: 11
+Progresso: 1156 de 149796
+Lista PR: 9 | Total: 11
+Progresso: 1157 de 149796
+Lista PR: 10 | Total: 11
+Progresso: 1158 de 149796
+Lista PR: 11 | Total: 11
+Progresso: 1159 de 149796
+Progresso: 1160 de 149796
+Lista paragraphs: 26 | Total: 82
+Lista PR: 1 | Total: 10
+Progresso: 1161 de 149796
+Lista PR: 2 | Total: 10
+Progresso: 1162 de 149796
+Lista PR: 3 | Total: 10
+Progresso: 1163 de 149796
+Lista PR: 4 | Total: 10
+Progresso: 1164 de 149796
+Lista PR: 5 | Total: 10
+Progresso: 1165 de 149796
+Lista PR: 6 | Total: 10
+Progresso: 1166 de 149796
+Lista PR: 7 | Total: 10
+Progresso: 1167 de 149796
+Lista PR: 8 | Total: 10
+Progresso: 1168 de 149796
+Lista PR: 9 | Total: 10
+Progresso: 1169 de 149796
+Lista PR: 10 | Total: 10
+Progresso: 1170 de 149796
+Progresso: 1171 de 149796
+Lista paragraphs: 27 | Total: 82
+Lista PR: 1 | Total: 15
+Progresso: 1172 de 149796
+Lista PR: 2 | Total: 15
+Progresso: 1173 de 149796
+Lista PR: 3 | Total: 15
+Progresso: 1174 de 149796
+Lista PR: 4 | Total: 15
+Progresso: 1175 de 149796
+Lista PR: 5 | Total: 15
+Progresso: 1176 de 149796
+Lista PR: 6 | Total: 15
+Progresso: 1177 de 149796
+Lista PR: 7 | Total: 15
+Progresso: 1178 de 149796
+Lista PR: 8 | Total: 15
+Progresso: 1179 de 149796
+Lista PR: 9 | Total: 15
+Progresso: 1180 de 149796
+Lista PR: 10 | Total: 15
+Progresso: 1181 de 149796
+Lista PR: 11 | Total: 15
+Progresso: 1182 de 149796
+Lista PR: 12 | Total: 15
+Progresso: 1183 de 149796
+Lista PR: 13 | Total: 15
+Progresso: 1184 de 149796
+Lista PR: 14 | Total: 15
+Progresso: 1185 de 149796
+Lista PR: 15 | Total: 15
+Progresso: 1186 de 149796
+Progresso: 1187 de 149796
+Lista paragraphs: 28 | Total: 82
+Lista PR: 1 | Total: 9
+Progresso: 1188 de 149796
+Lista PR: 2 | Total: 9
+Progresso: 1189 de 149796
+Lista PR: 3 | Total: 9
+Progresso: 1190 de 149796
+Lista PR: 4 | Total: 9
+Progresso: 1191 de 149796
+Lista PR: 5 | Total: 9
+Progresso: 1192 de 149796
+Lista PR: 6 | Total: 9
+Progresso: 1193 de 149796
+Lista PR: 7 | Total: 9
+Progresso: 1194 de 149796
+Lista PR: 8 | Total: 9
+Progresso: 1195 de 149796
+Lista PR: 9 | Total: 9
+Progresso: 1196 de 149796
+Progresso: 1197 de 149796
+Lista paragraphs: 29 | Total: 82
+Lista PR: 1 | Total: 15
+Progresso: 1198 de 149796
+Lista PR: 2 | Total: 15
+Progresso: 1199 de 149796
+Lista PR: 3 | Total: 15
+Progresso: 1200 de 149796
+Lista PR: 4 | Total: 15
+Progresso: 1201 de 149796
+Lista PR: 5 | Total: 15
+Progresso: 1202 de 149796
+Lista PR: 6 | Total: 15
+Progresso: 1203 de 149796
+Lista PR: 7 | Total: 15
+Progresso: 1204 de 149796
+Lista PR: 8 | Total: 15
+Progresso: 1205 de 149796
+Lista PR: 9 | Total: 15
+Progresso: 1206 de 149796
+Lista PR: 10 | Total: 15
+Progresso: 1207 de 149796
+Lista PR: 11 | Total: 15
+Progresso: 1208 de 149796
+Lista PR: 12 | Total: 15
+Progresso: 1209 de 149796
+Lista PR: 13 | Total: 15
+Progresso: 1210 de 149796
+Lista PR: 14 | Total: 15
+Progresso: 1211 de 149796
+Lista PR: 15 | Total: 15
+Progresso: 1212 de 149796
+Progresso: 1213 de 149796
+Lista paragraphs: 30 | Total: 82
+Lista PR: 1 | Total: 9
+Progresso: 1214 de 149796
+Lista PR: 2 | Total: 9
+Progresso: 1215 de 149796
+Lista PR: 3 | Total: 9
+Progresso: 1216 de 149796
+Lista PR: 4 | Total: 9
+Progresso: 1217 de 149796
+Lista PR: 5 | Total: 9
+Progresso: 1218 de 149796
+Lista PR: 6 | Total: 9
+Progresso: 1219 de 149796
+Lista PR: 7 | Total: 9
+Progresso: 1220 de 149796
+Lista PR: 8 | Total: 9
+Progresso: 1221 de 149796
+Lista PR: 9 | Total: 9
+Progresso: 1222 de 149796
+Progresso: 1223 de 149796
+Lista paragraphs: 31 | Total: 82
+Lista PR: 1 | Total: 7
+Progresso: 1224 de 149796
+Lista PR: 2 | Total: 7
+Progresso: 1225 de 149796
+Lista PR: 3 | Total: 7
+Progresso: 1226 de 149796
+Lista PR: 4 | Total: 7
+Progresso: 1227 de 149796
+Lista PR: 5 | Total: 7
+Progresso: 1228 de 149796
+Lista PR: 6 | Total: 7
+Progresso: 1229 de 149796
+Lista PR: 7 | Total: 7
+Progresso: 1230 de 149796
+Progresso: 1231 de 149796
+Lista paragraphs: 32 | Total: 82
+Lista PR: 1 | Total: 13
+Progresso: 1232 de 149796
+Lista PR: 2 | Total: 13
+Progresso: 1233 de 149796
+Lista PR: 3 | Total: 13
+Progresso: 1234 de 149796
+Lista PR: 4 | Total: 13
+Progresso: 1235 de 149796
+Lista PR: 5 | Total: 13
+Progresso: 1236 de 149796
+Lista PR: 6 | Total: 13
+Progresso: 1237 de 149796
+Lista PR: 7 | Total: 13
+Progresso: 1238 de 149796
+Lista PR: 8 | Total: 13
+Progresso: 1239 de 149796
+Lista PR: 9 | Total: 13
+Progresso: 1240 de 149796
+Lista PR: 10 | Total: 13
+Progresso: 1241 de 149796
+Lista PR: 11 | Total: 13
+Progresso: 1242 de 149796
+Lista PR: 12 | Total: 13
+Progresso: 1243 de 149796
+Lista PR: 13 | Total: 13
+Progresso: 1244 de 149796
+Progresso: 1245 de 149796
+Lista paragraphs: 33 | Total: 82
+Lista PR: 1 | Total: 12
+Progresso: 1246 de 149796
+Lista PR: 2 | Total: 12
+Progresso: 1247 de 149796
+Lista PR: 3 | Total: 12
+Progresso: 1248 de 149796
+Lista PR: 4 | Total: 12
+Progresso: 1249 de 149796
+Lista PR: 5 | Total: 12
+Progresso: 1250 de 149796
+Lista PR: 6 | Total: 12
+Progresso: 1251 de 149796
+Lista PR: 7 | Total: 12
+Progresso: 1252 de 149796
+Lista PR: 8 | Total: 12
+Progresso: 1253 de 149796
+Lista PR: 9 | Total: 12
+Progresso: 1254 de 149796
+Lista PR: 10 | Total: 12
+Progresso: 1255 de 149796
+Lista PR: 11 | Total: 12
+Progresso: 1256 de 149796
+Lista PR: 12 | Total: 12
+Progresso: 1257 de 149796
+Progresso: 1258 de 149796
+Lista paragraphs: 34 | Total: 82
+Lista PR: 1 | Total: 8
+Progresso: 1259 de 149796
+Lista PR: 2 | Total: 8
+Progresso: 1260 de 149796
+Lista PR: 3 | Total: 8
+Progresso: 1261 de 149796
+Lista PR: 4 | Total: 8
+Progresso: 1262 de 149796
+Lista PR: 5 | Total: 8
+Progresso: 1263 de 149796
+Lista PR: 6 | Total: 8
+Progresso: 1264 de 149796
+Lista PR: 7 | Total: 8
+Progresso: 1265 de 149796
+Lista PR: 8 | Total: 8
+Progresso: 1266 de 149796
+Progresso: 1267 de 149796
+Lista paragraphs: 35 | Total: 82
+Lista PR: 1 | Total: 7
+Progresso: 1268 de 149796
+Lista PR: 2 | Total: 7
+Progresso: 1269 de 149796
+Lista PR: 3 | Total: 7
+Progresso: 1270 de 149796
+Lista PR: 4 | Total: 7
+Progresso: 1271 de 149796
+Lista PR: 5 | Total: 7
+Progresso: 1272 de 149796
+Lista PR: 6 | Total: 7
+Progresso: 1273 de 149796
+Lista PR: 7 | Total: 7
+Progresso: 1274 de 149796
+Progresso: 1275 de 149796
+Lista paragraphs: 36 | Total: 82
+Lista PR: 1 | Total: 7
+Progresso: 1276 de 149796
+Lista PR: 2 | Total: 7
+Progresso: 1277 de 149796
+Lista PR: 3 | Total: 7
+Progresso: 1278 de 149796
+Lista PR: 4 | Total: 7
+Progresso: 1279 de 149796
+Lista PR: 5 | Total: 7
+Progresso: 1280 de 149796
+Lista PR: 6 | Total: 7
+Progresso: 1281 de 149796
+Lista PR: 7 | Total: 7
+Progresso: 1282 de 149796
+Progresso: 1283 de 149796
+Lista paragraphs: 37 | Total: 82
+Lista PR: 1 | Total: 9
+Progresso: 1284 de 149796
+Lista PR: 2 | Total: 9
+Progresso: 1285 de 149796
+Lista PR: 3 | Total: 9
+Progresso: 1286 de 149796
+Lista PR: 4 | Total: 9
+Progresso: 1287 de 149796
+Lista PR: 5 | Total: 9
+Progresso: 1288 de 149796
+Lista PR: 6 | Total: 9
+Progresso: 1289 de 149796
+Lista PR: 7 | Total: 9
+Progresso: 1290 de 149796
+Lista PR: 8 | Total: 9
+Progresso: 1291 de 149796
+Lista PR: 9 | Total: 9
+Progresso: 1292 de 149796
+Progresso: 1293 de 149796
+Lista paragraphs: 38 | Total: 82
+Lista PR: 1 | Total: 8
+Progresso: 1294 de 149796
+Lista PR: 2 | Total: 8
+Progresso: 1295 de 149796
+Lista PR: 3 | Total: 8
+Progresso: 1296 de 149796
+Lista PR: 4 | Total: 8
+Progresso: 1297 de 149796
+Lista PR: 5 | Total: 8
+Progresso: 1298 de 149796
+Lista PR: 6 | Total: 8
+Progresso: 1299 de 149796
+Lista PR: 7 | Total: 8
+Progresso: 1300 de 149796
+Lista PR: 8 | Total: 8
+Progresso: 1301 de 149796
+Progresso: 1302 de 149796
+Lista paragraphs: 39 | Total: 82
+Lista PR: 1 | Total: 6
+Progresso: 1303 de 149796
+Lista PR: 2 | Total: 6
+Progresso: 1304 de 149796
+Lista PR: 3 | Total: 6
+Progresso: 1305 de 149796
+Lista PR: 4 | Total: 6
+Progresso: 1306 de 149796
+Lista PR: 5 | Total: 6
+Progresso: 1307 de 149796
+Lista PR: 6 | Total: 6
+Progresso: 1308 de 149796
+Progresso: 1309 de 149796
+Lista paragraphs: 40 | Total: 82
+Lista PR: 1 | Total: 6
+Progresso: 1310 de 149796
+Lista PR: 2 | Total: 6
+Progresso: 1311 de 149796
+Lista PR: 3 | Total: 6
+Progresso: 1312 de 149796
+Lista PR: 4 | Total: 6
+Progresso: 1313 de 149796
+Lista PR: 5 | Total: 6
+Progresso: 1314 de 149796
+Lista PR: 6 | Total: 6
+Progresso: 1315 de 149796
+Progresso: 1316 de 149796
+Lista paragraphs: 41 | Total: 82
+Lista PR: 1 | Total: 6
+Progresso: 1317 de 149796
+Lista PR: 2 | Total: 6
+Progresso: 1318 de 149796
+Lista PR: 3 | Total: 6
+Progresso: 1319 de 149796
+Lista PR: 4 | Total: 6
+Progresso: 1320 de 149796
+Lista PR: 5 | Total: 6
+Progresso: 1321 de 149796
+Lista PR: 6 | Total: 6
+Progresso: 1322 de 149796
+Progresso: 1323 de 149796
+Lista paragraphs: 42 | Total: 82
+Lista PR: 1 | Total: 9
+Progresso: 1324 de 149796
+Lista PR: 2 | Total: 9
+Progresso: 1325 de 149796
+Lista PR: 3 | Total: 9
+Progresso: 1326 de 149796
+Lista PR: 4 | Total: 9
+Progresso: 1327 de 149796
+Lista PR: 5 | Total: 9
+Progresso: 1328 de 149796
+Lista PR: 6 | Total: 9
+Progresso: 1329 de 149796
+Lista PR: 7 | Total: 9
+Progresso: 1330 de 149796
+Lista PR: 8 | Total: 9
+Progresso: 1331 de 149796
+Lista PR: 9 | Total: 9
+Progresso: 1332 de 149796
+Progresso: 1333 de 149796
+Lista paragraphs: 43 | Total: 82
+Lista PR: 1 | Total: 9
+Progresso: 1334 de 149796
+Lista PR: 2 | Total: 9
+Progresso: 1335 de 149796
+Lista PR: 3 | Total: 9
+Progresso: 1336 de 149796
+Lista PR: 4 | Total: 9
+Progresso: 1337 de 149796
+Lista PR: 5 | Total: 9
+Progresso: 1338 de 149796
+Lista PR: 6 | Total: 9
+Progresso: 1339 de 149796
+Lista PR: 7 | Total: 9
+Progresso: 1340 de 149796
+Lista PR: 8 | Total: 9
+Progresso: 1341 de 149796
+Lista PR: 9 | Total: 9
+Progresso: 1342 de 149796
+Progresso: 1343 de 149796
+Lista paragraphs: 44 | Total: 82
+Lista PR: 1 | Total: 7
+Progresso: 1344 de 149796
+Lista PR: 2 | Total: 7
+Progresso: 1345 de 149796
+Lista PR: 3 | Total: 7
+Progresso: 1346 de 149796
+Lista PR: 4 | Total: 7
+Progresso: 1347 de 149796
+Lista PR: 5 | Total: 7
+Progresso: 1348 de 149796
+Lista PR: 6 | Total: 7
+Progresso: 1349 de 149796
+Lista PR: 7 | Total: 7
+Progresso: 1350 de 149796
+Progresso: 1351 de 149796
+Lista paragraphs: 45 | Total: 82
+Lista PR: 1 | Total: 10
+Progresso: 1352 de 149796
+Lista PR: 2 | Total: 10
+Progresso: 1353 de 149796
+Lista PR: 3 | Total: 10
+Progresso: 1354 de 149796
+Lista PR: 4 | Total: 10
+Progresso: 1355 de 149796
+Lista PR: 5 | Total: 10
+Progresso: 1356 de 149796
+Lista PR: 6 | Total: 10
+Progresso: 1357 de 149796
+Lista PR: 7 | Total: 10
+Progresso: 1358 de 149796
+Lista PR: 8 | Total: 10
+Progresso: 1359 de 149796
+Lista PR: 9 | Total: 10
+Progresso: 1360 de 149796
+Lista PR: 10 | Total: 10
+Progresso: 1361 de 149796
+Progresso: 1362 de 149796
+Lista paragraphs: 46 | Total: 82
+Lista PR: 1 | Total: 5
+Progresso: 1363 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 1364 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 1365 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 1366 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 1367 de 149796
+Progresso: 1368 de 149796
+Lista paragraphs: 47 | Total: 82
+Lista PR: 1 | Total: 5
+Progresso: 1369 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 1370 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 1371 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 1372 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 1373 de 149796
+Progresso: 1374 de 149796
+Lista paragraphs: 48 | Total: 82
+Lista PR: 1 | Total: 8
+Progresso: 1375 de 149796
+Lista PR: 2 | Total: 8
+Progresso: 1376 de 149796
+Lista PR: 3 | Total: 8
+Progresso: 1377 de 149796
+Lista PR: 4 | Total: 8
+Progresso: 1378 de 149796
+Lista PR: 5 | Total: 8
+Progresso: 1379 de 149796
+Lista PR: 6 | Total: 8
+Progresso: 1380 de 149796
+Lista PR: 7 | Total: 8
+Progresso: 1381 de 149796
+Lista PR: 8 | Total: 8
+Progresso: 1382 de 149796
+Progresso: 1383 de 149796
+Lista paragraphs: 49 | Total: 82
+Lista PR: 1 | Total: 6
+Progresso: 1384 de 149796
+Lista PR: 2 | Total: 6
+Progresso: 1385 de 149796
+Lista PR: 3 | Total: 6
+Progresso: 1386 de 149796
+Lista PR: 4 | Total: 6
+Progresso: 1387 de 149796
+Lista PR: 5 | Total: 6
+Progresso: 1388 de 149796
+Lista PR: 6 | Total: 6
+Progresso: 1389 de 149796
+Progresso: 1390 de 149796
+Lista paragraphs: 50 | Total: 82
+Lista PR: 1 | Total: 5
+Progresso: 1391 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 1392 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 1393 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 1394 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 1395 de 149796
+Progresso: 1396 de 149796
+Lista paragraphs: 51 | Total: 82
+Lista PR: 1 | Total: 7
+Progresso: 1397 de 149796
+Lista PR: 2 | Total: 7
+Progresso: 1398 de 149796
+Lista PR: 3 | Total: 7
+Progresso: 1399 de 149796
+Lista PR: 4 | Total: 7
+Progresso: 1400 de 149796
+Lista PR: 5 | Total: 7
+Progresso: 1401 de 149796
+Lista PR: 6 | Total: 7
+Progresso: 1402 de 149796
+Lista PR: 7 | Total: 7
+Progresso: 1403 de 149796
+Progresso: 1404 de 149796
+Lista paragraphs: 52 | Total: 82
+Lista PR: 1 | Total: 6
+Progresso: 1405 de 149796
+Lista PR: 2 | Total: 6
+Progresso: 1406 de 149796
+Lista PR: 3 | Total: 6
+Progresso: 1407 de 149796
+Lista PR: 4 | Total: 6
+Progresso: 1408 de 149796
+Lista PR: 5 | Total: 6
+Progresso: 1409 de 149796
+Lista PR: 6 | Total: 6
+Progresso: 1410 de 149796
+Progresso: 1411 de 149796
+Lista paragraphs: 53 | Total: 82
+Lista PR: 1 | Total: 9
+Progresso: 1412 de 149796
+Lista PR: 2 | Total: 9
+Progresso: 1413 de 149796
+Lista PR: 3 | Total: 9
+Progresso: 1414 de 149796
+Lista PR: 4 | Total: 9
+Progresso: 1415 de 149796
+Lista PR: 5 | Total: 9
+Progresso: 1416 de 149796
+Lista PR: 6 | Total: 9
+Progresso: 1417 de 149796
+Lista PR: 7 | Total: 9
+Progresso: 1418 de 149796
+Lista PR: 8 | Total: 9
+Progresso: 1419 de 149796
+Lista PR: 9 | Total: 9
+Progresso: 1420 de 149796
+Progresso: 1421 de 149796
+Lista paragraphs: 54 | Total: 82
+Lista PR: 1 | Total: 10
+Progresso: 1422 de 149796
+Lista PR: 2 | Total: 10
+Progresso: 1423 de 149796
+Lista PR: 3 | Total: 10
+Progresso: 1424 de 149796
+Lista PR: 4 | Total: 10
+Progresso: 1425 de 149796
+Lista PR: 5 | Total: 10
+Progresso: 1426 de 149796
+Lista PR: 6 | Total: 10
+Progresso: 1427 de 149796
+Lista PR: 7 | Total: 10
+Progresso: 1428 de 149796
+Lista PR: 8 | Total: 10
+Progresso: 1429 de 149796
+Lista PR: 9 | Total: 10
+Progresso: 1430 de 149796
+Lista PR: 10 | Total: 10
+Progresso: 1431 de 149796
+Progresso: 1432 de 149796
+Lista paragraphs: 55 | Total: 82
+Lista PR: 1 | Total: 4
+Progresso: 1433 de 149796
+Lista PR: 2 | Total: 4
+Progresso: 1434 de 149796
+Lista PR: 3 | Total: 4
+Progresso: 1435 de 149796
+Lista PR: 4 | Total: 4
+Progresso: 1436 de 149796
+Progresso: 1437 de 149796
+Lista paragraphs: 56 | Total: 82
+Lista PR: 1 | Total: 4
+Progresso: 1438 de 149796
+Lista PR: 2 | Total: 4
+Progresso: 1439 de 149796
+Lista PR: 3 | Total: 4
+Progresso: 1440 de 149796
+Lista PR: 4 | Total: 4
+Progresso: 1441 de 149796
+Progresso: 1442 de 149796
+Lista paragraphs: 57 | Total: 82
+Lista PR: 1 | Total: 6
+Progresso: 1443 de 149796
+Lista PR: 2 | Total: 6
+Progresso: 1444 de 149796
+Lista PR: 3 | Total: 6
+Progresso: 1445 de 149796
+Lista PR: 4 | Total: 6
+Progresso: 1446 de 149796
+Lista PR: 5 | Total: 6
+Progresso: 1447 de 149796
+Lista PR: 6 | Total: 6
+Progresso: 1448 de 149796
+Progresso: 1449 de 149796
+Lista paragraphs: 58 | Total: 82
+Lista PR: 1 | Total: 9
+Progresso: 1450 de 149796
+Lista PR: 2 | Total: 9
+Progresso: 1451 de 149796
+Lista PR: 3 | Total: 9
+Progresso: 1452 de 149796
+Lista PR: 4 | Total: 9
+Progresso: 1453 de 149796
+Lista PR: 5 | Total: 9
+Progresso: 1454 de 149796
+Lista PR: 6 | Total: 9
+Progresso: 1455 de 149796
+Lista PR: 7 | Total: 9
+Progresso: 1456 de 149796
+Lista PR: 8 | Total: 9
+Progresso: 1457 de 149796
+Lista PR: 9 | Total: 9
+Progresso: 1458 de 149796
+Progresso: 1459 de 149796
+Lista paragraphs: 59 | Total: 82
+Lista PR: 1 | Total: 6
+Progresso: 1460 de 149796
+Lista PR: 2 | Total: 6
+Progresso: 1461 de 149796
+Lista PR: 3 | Total: 6
+Progresso: 1462 de 149796
+Lista PR: 4 | Total: 6
+Progresso: 1463 de 149796
+Lista PR: 5 | Total: 6
+Progresso: 1464 de 149796
+Lista PR: 6 | Total: 6
+Progresso: 1465 de 149796
+Progresso: 1466 de 149796
+Lista paragraphs: 60 | Total: 82
+Lista PR: 1 | Total: 7
+Progresso: 1467 de 149796
+Lista PR: 2 | Total: 7
+Progresso: 1468 de 149796
+Lista PR: 3 | Total: 7
+Progresso: 1469 de 149796
+Lista PR: 4 | Total: 7
+Progresso: 1470 de 149796
+Lista PR: 5 | Total: 7
+Progresso: 1471 de 149796
+Lista PR: 6 | Total: 7
+Progresso: 1472 de 149796
+Lista PR: 7 | Total: 7
+Progresso: 1473 de 149796
+Progresso: 1474 de 149796
+Lista paragraphs: 61 | Total: 82
+Lista PR: 1 | Total: 6
+Progresso: 1475 de 149796
+Lista PR: 2 | Total: 6
+Progresso: 1476 de 149796
+Lista PR: 3 | Total: 6
+Progresso: 1477 de 149796
+Lista PR: 4 | Total: 6
+Progresso: 1478 de 149796
+Lista PR: 5 | Total: 6
+Progresso: 1479 de 149796
+Lista PR: 6 | Total: 6
+Progresso: 1480 de 149796
+Progresso: 1481 de 149796
+Lista paragraphs: 62 | Total: 82
+Lista PR: 1 | Total: 6
+Progresso: 1482 de 149796
+Lista PR: 2 | Total: 6
+Progresso: 1483 de 149796
+Lista PR: 3 | Total: 6
+Progresso: 1484 de 149796
+Lista PR: 4 | Total: 6
+Progresso: 1485 de 149796
+Lista PR: 5 | Total: 6
+Progresso: 1486 de 149796
+Lista PR: 6 | Total: 6
+Progresso: 1487 de 149796
+Progresso: 1488 de 149796
+Lista paragraphs: 63 | Total: 82
+Lista PR: 1 | Total: 5
+Progresso: 1489 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 1490 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 1491 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 1492 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 1493 de 149796
+Progresso: 1494 de 149796
+Lista paragraphs: 64 | Total: 82
+Lista PR: 1 | Total: 3
+Progresso: 1495 de 149796
+Lista PR: 2 | Total: 3
+Progresso: 1496 de 149796
+Lista PR: 3 | Total: 3
+Progresso: 1497 de 149796
+Progresso: 1498 de 149796
+Lista paragraphs: 65 | Total: 82
+Lista PR: 1 | Total: 5
+Progresso: 1499 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 1500 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 1501 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 1502 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 1503 de 149796
+Progresso: 1504 de 149796
+Lista paragraphs: 66 | Total: 82
+Lista PR: 1 | Total: 4
+Progresso: 1505 de 149796
+Lista PR: 2 | Total: 4
+Progresso: 1506 de 149796
+Lista PR: 3 | Total: 4
+Progresso: 1507 de 149796
+Lista PR: 4 | Total: 4
+Progresso: 1508 de 149796
+Progresso: 1509 de 149796
+Lista paragraphs: 67 | Total: 82
+Lista PR: 1 | Total: 5
+Progresso: 1510 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 1511 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 1512 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 1513 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 1514 de 149796
+Progresso: 1515 de 149796
+Lista paragraphs: 68 | Total: 82
+Lista PR: 1 | Total: 3
+Progresso: 1516 de 149796
+Lista PR: 2 | Total: 3
+Progresso: 1517 de 149796
+Lista PR: 3 | Total: 3
+Progresso: 1518 de 149796
+Progresso: 1519 de 149796
+Lista paragraphs: 69 | Total: 82
+Lista PR: 1 | Total: 6
+Progresso: 1520 de 149796
+Lista PR: 2 | Total: 6
+Progresso: 1521 de 149796
+Lista PR: 3 | Total: 6
+Progresso: 1522 de 149796
+Lista PR: 4 | Total: 6
+Progresso: 1523 de 149796
+Lista PR: 5 | Total: 6
+Progresso: 1524 de 149796
+Lista PR: 6 | Total: 6
+Progresso: 1525 de 149796
+Progresso: 1526 de 149796
+Lista paragraphs: 70 | Total: 82
+Lista PR: 1 | Total: 5
+Progresso: 1527 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 1528 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 1529 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 1530 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 1531 de 149796
+Progresso: 1532 de 149796
+Lista paragraphs: 71 | Total: 82
+Lista PR: 1 | Total: 3
+Progresso: 1533 de 149796
+Lista PR: 2 | Total: 3
+Progresso: 1534 de 149796
+Lista PR: 3 | Total: 3
+Progresso: 1535 de 149796
+Progresso: 1536 de 149796
+Lista paragraphs: 72 | Total: 82
+Lista PR: 1 | Total: 3
+Progresso: 1537 de 149796
+Lista PR: 2 | Total: 3
+Progresso: 1538 de 149796
+Lista PR: 3 | Total: 3
+Progresso: 1539 de 149796
+Progresso: 1540 de 149796
+Lista paragraphs: 73 | Total: 82
+Lista PR: 1 | Total: 6
+Progresso: 1541 de 149796
+Lista PR: 2 | Total: 6
+Progresso: 1542 de 149796
+Lista PR: 3 | Total: 6
+Progresso: 1543 de 149796
+Lista PR: 4 | Total: 6
+Progresso: 1544 de 149796
+Lista PR: 5 | Total: 6
+Progresso: 1545 de 149796
+Lista PR: 6 | Total: 6
+Progresso: 1546 de 149796
+Progresso: 1547 de 149796
+Lista paragraphs: 74 | Total: 82
+Lista PR: 1 | Total: 6
+Progresso: 1548 de 149796
+Lista PR: 2 | Total: 6
+Progresso: 1549 de 149796
+Lista PR: 3 | Total: 6
+Progresso: 1550 de 149796
+Lista PR: 4 | Total: 6
+Progresso: 1551 de 149796
+Lista PR: 5 | Total: 6
+Progresso: 1552 de 149796
+Lista PR: 6 | Total: 6
+Progresso: 1553 de 149796
+Progresso: 1554 de 149796
+Lista paragraphs: 75 | Total: 82
+Lista PR: 1 | Total: 4
+Progresso: 1555 de 149796
+Lista PR: 2 | Total: 4
+Progresso: 1556 de 149796
+Lista PR: 3 | Total: 4
+Progresso: 1557 de 149796
+Lista PR: 4 | Total: 4
+Progresso: 1558 de 149796
+Progresso: 1559 de 149796
+Lista paragraphs: 76 | Total: 82
+Lista PR: 1 | Total: 3
+Progresso: 1560 de 149796
+Lista PR: 2 | Total: 3
+Progresso: 1561 de 149796
+Lista PR: 3 | Total: 3
+Progresso: 1562 de 149796
+Progresso: 1563 de 149796
+Lista paragraphs: 77 | Total: 82
+Lista PR: 1 | Total: 9
+Progresso: 1564 de 149796
+Lista PR: 2 | Total: 9
+Progresso: 1565 de 149796
+Lista PR: 3 | Total: 9
+Progresso: 1566 de 149796
+Lista PR: 4 | Total: 9
+Progresso: 1567 de 149796
+Lista PR: 5 | Total: 9
+Progresso: 1568 de 149796
+Lista PR: 6 | Total: 9
+Progresso: 1569 de 149796
+Lista PR: 7 | Total: 9
+Progresso: 1570 de 149796
+Lista PR: 8 | Total: 9
+Progresso: 1571 de 149796
+Lista PR: 9 | Total: 9
+Progresso: 1572 de 149796
+Progresso: 1573 de 149796
+Lista paragraphs: 78 | Total: 82
+Lista PR: 1 | Total: 3
+Progresso: 1574 de 149796
+Lista PR: 2 | Total: 3
+Progresso: 1575 de 149796
+Lista PR: 3 | Total: 3
+Progresso: 1576 de 149796
+Progresso: 1577 de 149796
+Lista paragraphs: 79 | Total: 82
+Lista PR: 1 | Total: 3
+Progresso: 1578 de 149796
+Lista PR: 2 | Total: 3
+Progresso: 1579 de 149796
+Lista PR: 3 | Total: 3
+Progresso: 1580 de 149796
+Progresso: 1581 de 149796
+Lista paragraphs: 80 | Total: 82
+Lista PR: 1 | Total: 4
+Progresso: 1582 de 149796
+Lista PR: 2 | Total: 4
+Progresso: 1583 de 149796
+Lista PR: 3 | Total: 4
+Progresso: 1584 de 149796
+Lista PR: 4 | Total: 4
+Progresso: 1585 de 149796
+Progresso: 1586 de 149796
+Lista paragraphs: 81 | Total: 82
+Lista PR: 1 | Total: 8
+Progresso: 1587 de 149796
+Lista PR: 2 | Total: 8
+Progresso: 1588 de 149796
+Lista PR: 3 | Total: 8
+Progresso: 1589 de 149796
+Lista PR: 4 | Total: 8
+Progresso: 1590 de 149796
+Lista PR: 5 | Total: 8
+Progresso: 1591 de 149796
+Lista PR: 6 | Total: 8
+Progresso: 1592 de 149796
+Lista PR: 7 | Total: 8
+Progresso: 1593 de 149796
+Lista PR: 8 | Total: 8
+Progresso: 1594 de 149796
+Progresso: 1595 de 149796
+Lista paragraphs: 82 | Total: 82
+Lista PR: 1 | Total: 4
+Progresso: 1596 de 149796
+Lista PR: 2 | Total: 4
+Progresso: 1597 de 149796
+Lista PR: 3 | Total: 4
+Progresso: 1598 de 149796
+Lista PR: 4 | Total: 4
+Progresso: 1599 de 149796
+Progresso: 1600 de 149796
+Lista dicionario: 3 | Total: 442
+Progresso: 1601 de 149796
+Lista paragraphs: 1 | Total: 72
+Lista PR: 1 | Total: 1
+Progresso: 1602 de 149796
+Progresso: 1603 de 149796
+Lista paragraphs: 2 | Total: 72
+Lista PR: 1 | Total: 5
+Progresso: 1604 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 1605 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 1606 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 1607 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 1608 de 149796
+Progresso: 1609 de 149796
+Lista paragraphs: 3 | Total: 72
+Lista PR: 1 | Total: 4
+Progresso: 1610 de 149796
+Lista PR: 2 | Total: 4
+Progresso: 1611 de 149796
+Lista PR: 3 | Total: 4
+Progresso: 1612 de 149796
+Lista PR: 4 | Total: 4
+Progresso: 1613 de 149796
+Progresso: 1614 de 149796
+Lista paragraphs: 4 | Total: 72
+Lista PR: 1 | Total: 5
+Progresso: 1615 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 1616 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 1617 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 1618 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 1619 de 149796
+Progresso: 1620 de 149796
+Lista paragraphs: 5 | Total: 72
+Lista PR: 1 | Total: 5
+Progresso: 1621 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 1622 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 1623 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 1624 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 1625 de 149796
+Progresso: 1626 de 149796
+Lista paragraphs: 6 | Total: 72
+Lista PR: 1 | Total: 4
+Progresso: 1627 de 149796
+Lista PR: 2 | Total: 4
+Progresso: 1628 de 149796
+Lista PR: 3 | Total: 4
+Progresso: 1629 de 149796
+Lista PR: 4 | Total: 4
+Progresso: 1630 de 149796
+Progresso: 1631 de 149796
+Lista paragraphs: 7 | Total: 72
+Lista PR: 1 | Total: 4
+Progresso: 1632 de 149796
+Lista PR: 2 | Total: 4
+Progresso: 1633 de 149796
+Lista PR: 3 | Total: 4
+Progresso: 1634 de 149796
+Lista PR: 4 | Total: 4
+Progresso: 1635 de 149796
+Progresso: 1636 de 149796
+Lista paragraphs: 8 | Total: 72
+Lista PR: 1 | Total: 5
+Progresso: 1637 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 1638 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 1639 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 1640 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 1641 de 149796
+Progresso: 1642 de 149796
+Lista paragraphs: 9 | Total: 72
+Lista PR: 1 | Total: 5
+Progresso: 1643 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 1644 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 1645 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 1646 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 1647 de 149796
+Progresso: 1648 de 149796
+Lista paragraphs: 10 | Total: 72
+Lista PR: 1 | Total: 4
+Progresso: 1649 de 149796
+Lista PR: 2 | Total: 4
+Progresso: 1650 de 149796
+Lista PR: 3 | Total: 4
+Progresso: 1651 de 149796
+Lista PR: 4 | Total: 4
+Progresso: 1652 de 149796
+Progresso: 1653 de 149796
+Lista paragraphs: 11 | Total: 72
+Lista PR: 1 | Total: 5
+Progresso: 1654 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 1655 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 1656 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 1657 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 1658 de 149796
+Progresso: 1659 de 149796
+Lista paragraphs: 12 | Total: 72
+Lista PR: 1 | Total: 4
+Progresso: 1660 de 149796
+Lista PR: 2 | Total: 4
+Progresso: 1661 de 149796
+Lista PR: 3 | Total: 4
+Progresso: 1662 de 149796
+Lista PR: 4 | Total: 4
+Progresso: 1663 de 149796
+Progresso: 1664 de 149796
+Lista paragraphs: 13 | Total: 72
+Lista PR: 1 | Total: 3
+Progresso: 1665 de 149796
+Lista PR: 2 | Total: 3
+Progresso: 1666 de 149796
+Lista PR: 3 | Total: 3
+Progresso: 1667 de 149796
+Progresso: 1668 de 149796
+Lista paragraphs: 14 | Total: 72
+Lista PR: 1 | Total: 5
+Progresso: 1669 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 1670 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 1671 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 1672 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 1673 de 149796
+Progresso: 1674 de 149796
+Lista paragraphs: 15 | Total: 72
+Lista PR: 1 | Total: 3
+Progresso: 1675 de 149796
+Lista PR: 2 | Total: 3
+Progresso: 1676 de 149796
+Lista PR: 3 | Total: 3
+Progresso: 1677 de 149796
+Progresso: 1678 de 149796
+Lista paragraphs: 16 | Total: 72
+Lista PR: 1 | Total: 3
+Progresso: 1679 de 149796
+Lista PR: 2 | Total: 3
+Progresso: 1680 de 149796
+Lista PR: 3 | Total: 3
+Progresso: 1681 de 149796
+Progresso: 1682 de 149796
+Lista paragraphs: 17 | Total: 72
+Lista PR: 1 | Total: 2
+Progresso: 1683 de 149796
+Lista PR: 2 | Total: 2
+Progresso: 1684 de 149796
+Progresso: 1685 de 149796
+Lista paragraphs: 18 | Total: 72
+Lista PR: 1 | Total: 4
+Progresso: 1686 de 149796
+Lista PR: 2 | Total: 4
+Progresso: 1687 de 149796
+Lista PR: 3 | Total: 4
+Progresso: 1688 de 149796
+Lista PR: 4 | Total: 4
+Progresso: 1689 de 149796
+Progresso: 1690 de 149796
+Lista paragraphs: 19 | Total: 72
+Lista PR: 1 | Total: 3
+Progresso: 1691 de 149796
+Lista PR: 2 | Total: 3
+Progresso: 1692 de 149796
+Lista PR: 3 | Total: 3
+Progresso: 1693 de 149796
+Progresso: 1694 de 149796
+Lista paragraphs: 20 | Total: 72
+Lista PR: 1 | Total: 5
+Progresso: 1695 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 1696 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 1697 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 1698 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 1699 de 149796
+Progresso: 1700 de 149796
+Lista paragraphs: 21 | Total: 72
+Lista PR: 1 | Total: 3
+Progresso: 1701 de 149796
+Lista PR: 2 | Total: 3
+Progresso: 1702 de 149796
+Lista PR: 3 | Total: 3
+Progresso: 1703 de 149796
+Progresso: 1704 de 149796
+Lista paragraphs: 22 | Total: 72
+Lista PR: 1 | Total: 3
+Progresso: 1705 de 149796
+Lista PR: 2 | Total: 3
+Progresso: 1706 de 149796
+Lista PR: 3 | Total: 3
+Progresso: 1707 de 149796
+Progresso: 1708 de 149796
+Lista paragraphs: 23 | Total: 72
+Lista PR: 1 | Total: 4
+Progresso: 1709 de 149796
+Lista PR: 2 | Total: 4
+Progresso: 1710 de 149796
+Lista PR: 3 | Total: 4
+Progresso: 1711 de 149796
+Lista PR: 4 | Total: 4
+Progresso: 1712 de 149796
+Progresso: 1713 de 149796
+Lista paragraphs: 24 | Total: 72
+Lista PR: 1 | Total: 3
+Progresso: 1714 de 149796
+Lista PR: 2 | Total: 3
+Progresso: 1715 de 149796
+Lista PR: 3 | Total: 3
+Progresso: 1716 de 149796
+Progresso: 1717 de 149796
+Lista paragraphs: 25 | Total: 72
+Lista PR: 1 | Total: 2
+Progresso: 1718 de 149796
+Lista PR: 2 | Total: 2
+Progresso: 1719 de 149796
+Progresso: 1720 de 149796
+Lista paragraphs: 26 | Total: 72
+Lista PR: 1 | Total: 5
+Progresso: 1721 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 1722 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 1723 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 1724 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 1725 de 149796
+Progresso: 1726 de 149796
+Lista paragraphs: 27 | Total: 72
+Lista PR: 1 | Total: 4
+Progresso: 1727 de 149796
+Lista PR: 2 | Total: 4
+Progresso: 1728 de 149796
+Lista PR: 3 | Total: 4
+Progresso: 1729 de 149796
+Lista PR: 4 | Total: 4
+Progresso: 1730 de 149796
+Progresso: 1731 de 149796
+Lista paragraphs: 28 | Total: 72
+Lista PR: 1 | Total: 5
+Progresso: 1732 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 1733 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 1734 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 1735 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 1736 de 149796
+Progresso: 1737 de 149796
+Lista paragraphs: 29 | Total: 72
+Lista PR: 1 | Total: 4
+Progresso: 1738 de 149796
+Lista PR: 2 | Total: 4
+Progresso: 1739 de 149796
+Lista PR: 3 | Total: 4
+Progresso: 1740 de 149796
+Lista PR: 4 | Total: 4
+Progresso: 1741 de 149796
+Progresso: 1742 de 149796
+Lista paragraphs: 30 | Total: 72
+Lista PR: 1 | Total: 5
+Progresso: 1743 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 1744 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 1745 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 1746 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 1747 de 149796
+Progresso: 1748 de 149796
+Lista paragraphs: 31 | Total: 72
+Lista PR: 1 | Total: 4
+Progresso: 1749 de 149796
+Lista PR: 2 | Total: 4
+Progresso: 1750 de 149796
+Lista PR: 3 | Total: 4
+Progresso: 1751 de 149796
+Lista PR: 4 | Total: 4
+Progresso: 1752 de 149796
+Progresso: 1753 de 149796
+Lista paragraphs: 32 | Total: 72
+Lista PR: 1 | Total: 1
+Progresso: 1754 de 149796
+Progresso: 1755 de 149796
+Lista paragraphs: 33 | Total: 72
+Lista PR: 1 | Total: 3
+Progresso: 1756 de 149796
+Lista PR: 2 | Total: 3
+Progresso: 1757 de 149796
+Lista PR: 3 | Total: 3
+Progresso: 1758 de 149796
+Progresso: 1759 de 149796
+Lista paragraphs: 34 | Total: 72
+Lista PR: 1 | Total: 5
+Progresso: 1760 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 1761 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 1762 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 1763 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 1764 de 149796
+Progresso: 1765 de 149796
+Lista paragraphs: 35 | Total: 72
+Lista PR: 1 | Total: 3
+Progresso: 1766 de 149796
+Lista PR: 2 | Total: 3
+Progresso: 1767 de 149796
+Lista PR: 3 | Total: 3
+Progresso: 1768 de 149796
+Progresso: 1769 de 149796
+Lista paragraphs: 36 | Total: 72
+Lista PR: 1 | Total: 2
+Progresso: 1770 de 149796
+Lista PR: 2 | Total: 2
+Progresso: 1771 de 149796
+Progresso: 1772 de 149796
+Lista paragraphs: 37 | Total: 72
+Lista PR: 1 | Total: 4
+Progresso: 1773 de 149796
+Lista PR: 2 | Total: 4
+Progresso: 1774 de 149796
+Lista PR: 3 | Total: 4
+Progresso: 1775 de 149796
+Lista PR: 4 | Total: 4
+Progresso: 1776 de 149796
+Progresso: 1777 de 149796
+Lista paragraphs: 38 | Total: 72
+Lista PR: 1 | Total: 4
+Progresso: 1778 de 149796
+Lista PR: 2 | Total: 4
+Progresso: 1779 de 149796
+Lista PR: 3 | Total: 4
+Progresso: 1780 de 149796
+Lista PR: 4 | Total: 4
+Progresso: 1781 de 149796
+Progresso: 1782 de 149796
+Lista paragraphs: 39 | Total: 72
+Lista PR: 1 | Total: 4
+Progresso: 1783 de 149796
+Lista PR: 2 | Total: 4
+Progresso: 1784 de 149796
+Lista PR: 3 | Total: 4
+Progresso: 1785 de 149796
+Lista PR: 4 | Total: 4
+Progresso: 1786 de 149796
+Progresso: 1787 de 149796
+Lista paragraphs: 40 | Total: 72
+Lista PR: 1 | Total: 5
+Progresso: 1788 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 1789 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 1790 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 1791 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 1792 de 149796
+Progresso: 1793 de 149796
+Lista paragraphs: 41 | Total: 72
+Lista PR: 1 | Total: 4
+Progresso: 1794 de 149796
+Lista PR: 2 | Total: 4
+Progresso: 1795 de 149796
+Lista PR: 3 | Total: 4
+Progresso: 1796 de 149796
+Lista PR: 4 | Total: 4
+Progresso: 1797 de 149796
+Progresso: 1798 de 149796
+Lista paragraphs: 42 | Total: 72
+Lista PR: 1 | Total: 5
+Progresso: 1799 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 1800 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 1801 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 1802 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 1803 de 149796
+Progresso: 1804 de 149796
+Lista paragraphs: 43 | Total: 72
+Lista PR: 1 | Total: 3
+Progresso: 1805 de 149796
+Lista PR: 2 | Total: 3
+Progresso: 1806 de 149796
+Lista PR: 3 | Total: 3
+Progresso: 1807 de 149796
+Progresso: 1808 de 149796
+Lista paragraphs: 44 | Total: 72
+Lista PR: 1 | Total: 3
+Progresso: 1809 de 149796
+Lista PR: 2 | Total: 3
+Progresso: 1810 de 149796
+Lista PR: 3 | Total: 3
+Progresso: 1811 de 149796
+Progresso: 1812 de 149796
+Lista paragraphs: 45 | Total: 72
+Lista PR: 1 | Total: 5
+Progresso: 1813 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 1814 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 1815 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 1816 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 1817 de 149796
+Progresso: 1818 de 149796
+Lista paragraphs: 46 | Total: 72
+Lista PR: 1 | Total: 4
+Progresso: 1819 de 149796
+Lista PR: 2 | Total: 4
+Progresso: 1820 de 149796
+Lista PR: 3 | Total: 4
+Progresso: 1821 de 149796
+Lista PR: 4 | Total: 4
+Progresso: 1822 de 149796
+Progresso: 1823 de 149796
+Lista paragraphs: 47 | Total: 72
+Lista PR: 1 | Total: 3
+Progresso: 1824 de 149796
+Lista PR: 2 | Total: 3
+Progresso: 1825 de 149796
+Lista PR: 3 | Total: 3
+Progresso: 1826 de 149796
+Progresso: 1827 de 149796
+Lista paragraphs: 48 | Total: 72
+Lista PR: 1 | Total: 5
+Progresso: 1828 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 1829 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 1830 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 1831 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 1832 de 149796
+Progresso: 1833 de 149796
+Lista paragraphs: 49 | Total: 72
+Lista PR: 1 | Total: 5
+Progresso: 1834 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 1835 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 1836 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 1837 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 1838 de 149796
+Progresso: 1839 de 149796
+Lista paragraphs: 50 | Total: 72
+Lista PR: 1 | Total: 5
+Progresso: 1840 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 1841 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 1842 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 1843 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 1844 de 149796
+Progresso: 1845 de 149796
+Lista paragraphs: 51 | Total: 72
+Lista PR: 1 | Total: 4
+Progresso: 1846 de 149796
+Lista PR: 2 | Total: 4
+Progresso: 1847 de 149796
+Lista PR: 3 | Total: 4
+Progresso: 1848 de 149796
+Lista PR: 4 | Total: 4
+Progresso: 1849 de 149796
+Progresso: 1850 de 149796
+Lista paragraphs: 52 | Total: 72
+Lista PR: 1 | Total: 4
+Progresso: 1851 de 149796
+Lista PR: 2 | Total: 4
+Progresso: 1852 de 149796
+Lista PR: 3 | Total: 4
+Progresso: 1853 de 149796
+Lista PR: 4 | Total: 4
+Progresso: 1854 de 149796
+Progresso: 1855 de 149796
+Lista paragraphs: 53 | Total: 72
+Lista PR: 1 | Total: 4
+Progresso: 1856 de 149796
+Lista PR: 2 | Total: 4
+Progresso: 1857 de 149796
+Lista PR: 3 | Total: 4
+Progresso: 1858 de 149796
+Lista PR: 4 | Total: 4
+Progresso: 1859 de 149796
+Progresso: 1860 de 149796
+Lista paragraphs: 54 | Total: 72
+Lista PR: 1 | Total: 3
+Progresso: 1861 de 149796
+Lista PR: 2 | Total: 3
+Progresso: 1862 de 149796
+Lista PR: 3 | Total: 3
+Progresso: 1863 de 149796
+Progresso: 1864 de 149796
+Lista paragraphs: 55 | Total: 72
+Lista PR: 1 | Total: 4
+Progresso: 1865 de 149796
+Lista PR: 2 | Total: 4
+Progresso: 1866 de 149796
+Lista PR: 3 | Total: 4
+Progresso: 1867 de 149796
+Lista PR: 4 | Total: 4
+Progresso: 1868 de 149796
+Progresso: 1869 de 149796
+Lista paragraphs: 56 | Total: 72
+Lista PR: 1 | Total: 2
+Progresso: 1870 de 149796
+Lista PR: 2 | Total: 2
+Progresso: 1871 de 149796
+Progresso: 1872 de 149796
+Lista paragraphs: 57 | Total: 72
+Lista PR: 1 | Total: 5
+Progresso: 1873 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 1874 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 1875 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 1876 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 1877 de 149796
+Progresso: 1878 de 149796
+Lista paragraphs: 58 | Total: 72
+Lista PR: 1 | Total: 5
+Progresso: 1879 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 1880 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 1881 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 1882 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 1883 de 149796
+Progresso: 1884 de 149796
+Lista paragraphs: 59 | Total: 72
+Lista PR: 1 | Total: 5
+Progresso: 1885 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 1886 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 1887 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 1888 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 1889 de 149796
+Progresso: 1890 de 149796
+Lista paragraphs: 60 | Total: 72
+Lista PR: 1 | Total: 5
+Progresso: 1891 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 1892 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 1893 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 1894 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 1895 de 149796
+Progresso: 1896 de 149796
+Lista paragraphs: 61 | Total: 72
+Lista PR: 1 | Total: 5
+Progresso: 1897 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 1898 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 1899 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 1900 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 1901 de 149796
+Progresso: 1902 de 149796
+Lista paragraphs: 62 | Total: 72
+Lista PR: 1 | Total: 5
+Progresso: 1903 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 1904 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 1905 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 1906 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 1907 de 149796
+Progresso: 1908 de 149796
+Lista paragraphs: 63 | Total: 72
+Lista PR: 1 | Total: 4
+Progresso: 1909 de 149796
+Lista PR: 2 | Total: 4
+Progresso: 1910 de 149796
+Lista PR: 3 | Total: 4
+Progresso: 1911 de 149796
+Lista PR: 4 | Total: 4
+Progresso: 1912 de 149796
+Progresso: 1913 de 149796
+Lista paragraphs: 64 | Total: 72
+Lista PR: 1 | Total: 5
+Progresso: 1914 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 1915 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 1916 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 1917 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 1918 de 149796
+Progresso: 1919 de 149796
+Lista paragraphs: 65 | Total: 72
+Lista PR: 1 | Total: 5
+Progresso: 1920 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 1921 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 1922 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 1923 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 1924 de 149796
+Progresso: 1925 de 149796
+Lista paragraphs: 66 | Total: 72
+Lista PR: 1 | Total: 5
+Progresso: 1926 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 1927 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 1928 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 1929 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 1930 de 149796
+Progresso: 1931 de 149796
+Lista paragraphs: 67 | Total: 72
+Lista PR: 1 | Total: 4
+Progresso: 1932 de 149796
+Lista PR: 2 | Total: 4
+Progresso: 1933 de 149796
+Lista PR: 3 | Total: 4
+Progresso: 1934 de 149796
+Lista PR: 4 | Total: 4
+Progresso: 1935 de 149796
+Progresso: 1936 de 149796
+Lista paragraphs: 68 | Total: 72
+Lista PR: 1 | Total: 5
+Progresso: 1937 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 1938 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 1939 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 1940 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 1941 de 149796
+Progresso: 1942 de 149796
+Lista paragraphs: 69 | Total: 72
+Lista PR: 1 | Total: 5
+Progresso: 1943 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 1944 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 1945 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 1946 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 1947 de 149796
+Progresso: 1948 de 149796
+Lista paragraphs: 70 | Total: 72
+Lista PR: 1 | Total: 5
+Progresso: 1949 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 1950 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 1951 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 1952 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 1953 de 149796
+Progresso: 1954 de 149796
+Lista paragraphs: 71 | Total: 72
+Lista PR: 1 | Total: 3
+Progresso: 1955 de 149796
+Lista PR: 2 | Total: 3
+Progresso: 1956 de 149796
+Lista PR: 3 | Total: 3
+Progresso: 1957 de 149796
+Progresso: 1958 de 149796
+Lista paragraphs: 72 | Total: 72
+Lista PR: 1 | Total: 5
+Progresso: 1959 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 1960 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 1961 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 1962 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 1963 de 149796
+Progresso: 1964 de 149796
+Lista dicionario: 4 | Total: 442
+Progresso: 1965 de 149796
+Lista paragraphs: 1 | Total: 60
+Lista PR: 1 | Total: 10
+Progresso: 1966 de 149796
+Lista PR: 2 | Total: 10
+Progresso: 1967 de 149796
+Lista PR: 3 | Total: 10
+Progresso: 1968 de 149796
+Lista PR: 4 | Total: 10
+Progresso: 1969 de 149796
+Lista PR: 5 | Total: 10
+Progresso: 1970 de 149796
+Lista PR: 6 | Total: 10
+Progresso: 1971 de 149796
+Lista PR: 7 | Total: 10
+Progresso: 1972 de 149796
+Lista PR: 8 | Total: 10
+Progresso: 1973 de 149796
+Lista PR: 9 | Total: 10
+Progresso: 1974 de 149796
+Lista PR: 10 | Total: 10
+Progresso: 1975 de 149796
+Progresso: 1976 de 149796
+Lista paragraphs: 2 | Total: 60
+Lista PR: 1 | Total: 7
+Progresso: 1977 de 149796
+Lista PR: 2 | Total: 7
+Progresso: 1978 de 149796
+Lista PR: 3 | Total: 7
+Progresso: 1979 de 149796
+Lista PR: 4 | Total: 7
+Progresso: 1980 de 149796
+Lista PR: 5 | Total: 7
+Progresso: 1981 de 149796
+Lista PR: 6 | Total: 7
+Progresso: 1982 de 149796
+Lista PR: 7 | Total: 7
+Progresso: 1983 de 149796
+Progresso: 1984 de 149796
+Lista paragraphs: 3 | Total: 60
+Lista PR: 1 | Total: 3
+Progresso: 1985 de 149796
+Lista PR: 2 | Total: 3
+Progresso: 1986 de 149796
+Lista PR: 3 | Total: 3
+Progresso: 1987 de 149796
+Progresso: 1988 de 149796
+Lista paragraphs: 4 | Total: 60
+Lista PR: 1 | Total: 5
+Progresso: 1989 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 1990 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 1991 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 1992 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 1993 de 149796
+Progresso: 1994 de 149796
+Lista paragraphs: 5 | Total: 60
+Lista PR: 1 | Total: 6
+Progresso: 1995 de 149796
+Lista PR: 2 | Total: 6
+Progresso: 1996 de 149796
+Lista PR: 3 | Total: 6
+Progresso: 1997 de 149796
+Lista PR: 4 | Total: 6
+Progresso: 1998 de 149796
+Lista PR: 5 | Total: 6
+Progresso: 1999 de 149796
+Lista PR: 6 | Total: 6
+Progresso: 2000 de 149796
+Progresso: 2001 de 149796
+Lista paragraphs: 6 | Total: 60
+Lista PR: 1 | Total: 10
+Progresso: 2002 de 149796
+Lista PR: 2 | Total: 10
+Progresso: 2003 de 149796
+Lista PR: 3 | Total: 10
+Progresso: 2004 de 149796
+Lista PR: 4 | Total: 10
+Progresso: 2005 de 149796
+Lista PR: 5 | Total: 10
+Progresso: 2006 de 149796
+Lista PR: 6 | Total: 10
+Progresso: 2007 de 149796
+Lista PR: 7 | Total: 10
+Progresso: 2008 de 149796
+Lista PR: 8 | Total: 10
+Progresso: 2009 de 149796
+Lista PR: 9 | Total: 10
+Progresso: 2010 de 149796
+Lista PR: 10 | Total: 10
+Progresso: 2011 de 149796
+Progresso: 2012 de 149796
+Lista paragraphs: 7 | Total: 60
+Lista PR: 1 | Total: 7
+Progresso: 2013 de 149796
+Lista PR: 2 | Total: 7
+Progresso: 2014 de 149796
+Lista PR: 3 | Total: 7
+Progresso: 2015 de 149796
+Lista PR: 4 | Total: 7
+Progresso: 2016 de 149796
+Lista PR: 5 | Total: 7
+Progresso: 2017 de 149796
+Lista PR: 6 | Total: 7
+Progresso: 2018 de 149796
+Lista PR: 7 | Total: 7
+Progresso: 2019 de 149796
+Progresso: 2020 de 149796
+Lista paragraphs: 8 | Total: 60
+Lista PR: 1 | Total: 7
+Progresso: 2021 de 149796
+Lista PR: 2 | Total: 7
+Progresso: 2022 de 149796
+Lista PR: 3 | Total: 7
+Progresso: 2023 de 149796
+Lista PR: 4 | Total: 7
+Progresso: 2024 de 149796
+Lista PR: 5 | Total: 7
+Progresso: 2025 de 149796
+Lista PR: 6 | Total: 7
+Progresso: 2026 de 149796
+Lista PR: 7 | Total: 7
+Progresso: 2027 de 149796
+Progresso: 2028 de 149796
+Lista paragraphs: 9 | Total: 60
+Lista PR: 1 | Total: 8
+Progresso: 2029 de 149796
+Lista PR: 2 | Total: 8
+Progresso: 2030 de 149796
+Lista PR: 3 | Total: 8
+Progresso: 2031 de 149796
+Lista PR: 4 | Total: 8
+Progresso: 2032 de 149796
+Lista PR: 5 | Total: 8
+Progresso: 2033 de 149796
+Lista PR: 6 | Total: 8
+Progresso: 2034 de 149796
+Lista PR: 7 | Total: 8
+Progresso: 2035 de 149796
+Lista PR: 8 | Total: 8
+Progresso: 2036 de 149796
+Progresso: 2037 de 149796
+Lista paragraphs: 10 | Total: 60
+Lista PR: 1 | Total: 8
+Progresso: 2038 de 149796
+Lista PR: 2 | Total: 8
+Progresso: 2039 de 149796
+Lista PR: 3 | Total: 8
+Progresso: 2040 de 149796
+Lista PR: 4 | Total: 8
+Progresso: 2041 de 149796
+Lista PR: 5 | Total: 8
+Progresso: 2042 de 149796
+Lista PR: 6 | Total: 8
+Progresso: 2043 de 149796
+Lista PR: 7 | Total: 8
+Progresso: 2044 de 149796
+Lista PR: 8 | Total: 8
+Progresso: 2045 de 149796
+Progresso: 2046 de 149796
+Lista paragraphs: 11 | Total: 60
+Lista PR: 1 | Total: 5
+Progresso: 2047 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 2048 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 2049 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 2050 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 2051 de 149796
+Progresso: 2052 de 149796
+Lista paragraphs: 12 | Total: 60
+Lista PR: 1 | Total: 5
+Progresso: 2053 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 2054 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 2055 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 2056 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 2057 de 149796
+Progresso: 2058 de 149796
+Lista paragraphs: 13 | Total: 60
+Lista PR: 1 | Total: 5
+Progresso: 2059 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 2060 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 2061 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 2062 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 2063 de 149796
+Progresso: 2064 de 149796
+Lista paragraphs: 14 | Total: 60
+Lista PR: 1 | Total: 6
+Progresso: 2065 de 149796
+Lista PR: 2 | Total: 6
+Progresso: 2066 de 149796
+Lista PR: 3 | Total: 6
+Progresso: 2067 de 149796
+Lista PR: 4 | Total: 6
+Progresso: 2068 de 149796
+Lista PR: 5 | Total: 6
+Progresso: 2069 de 149796
+Lista PR: 6 | Total: 6
+Progresso: 2070 de 149796
+Progresso: 2071 de 149796
+Lista paragraphs: 15 | Total: 60
+Lista PR: 1 | Total: 3
+Progresso: 2072 de 149796
+Lista PR: 2 | Total: 3
+Progresso: 2073 de 149796
+Lista PR: 3 | Total: 3
+Progresso: 2074 de 149796
+Progresso: 2075 de 149796
+Lista paragraphs: 16 | Total: 60
+Lista PR: 1 | Total: 9
+Progresso: 2076 de 149796
+Lista PR: 2 | Total: 9
+Progresso: 2077 de 149796
+Lista PR: 3 | Total: 9
+Progresso: 2078 de 149796
+Lista PR: 4 | Total: 9
+Progresso: 2079 de 149796
+Lista PR: 5 | Total: 9
+Progresso: 2080 de 149796
+Lista PR: 6 | Total: 9
+Progresso: 2081 de 149796
+Lista PR: 7 | Total: 9
+Progresso: 2082 de 149796
+Lista PR: 8 | Total: 9
+Progresso: 2083 de 149796
+Lista PR: 9 | Total: 9
+Progresso: 2084 de 149796
+Progresso: 2085 de 149796
+Lista paragraphs: 17 | Total: 60
+Lista PR: 1 | Total: 6
+Progresso: 2086 de 149796
+Lista PR: 2 | Total: 6
+Progresso: 2087 de 149796
+Lista PR: 3 | Total: 6
+Progresso: 2088 de 149796
+Lista PR: 4 | Total: 6
+Progresso: 2089 de 149796
+Lista PR: 5 | Total: 6
+Progresso: 2090 de 149796
+Lista PR: 6 | Total: 6
+Progresso: 2091 de 149796
+Progresso: 2092 de 149796
+Lista paragraphs: 18 | Total: 60
+Lista PR: 1 | Total: 7
+Progresso: 2093 de 149796
+Lista PR: 2 | Total: 7
+Progresso: 2094 de 149796
+Lista PR: 3 | Total: 7
+Progresso: 2095 de 149796
+Lista PR: 4 | Total: 7
+Progresso: 2096 de 149796
+Lista PR: 5 | Total: 7
+Progresso: 2097 de 149796
+Lista PR: 6 | Total: 7
+Progresso: 2098 de 149796
+Lista PR: 7 | Total: 7
+Progresso: 2099 de 149796
+Progresso: 2100 de 149796
+Lista paragraphs: 19 | Total: 60
+Lista PR: 1 | Total: 6
+Progresso: 2101 de 149796
+Lista PR: 2 | Total: 6
+Progresso: 2102 de 149796
+Lista PR: 3 | Total: 6
+Progresso: 2103 de 149796
+Lista PR: 4 | Total: 6
+Progresso: 2104 de 149796
+Lista PR: 5 | Total: 6
+Progresso: 2105 de 149796
+Lista PR: 6 | Total: 6
+Progresso: 2106 de 149796
+Progresso: 2107 de 149796
+Lista paragraphs: 20 | Total: 60
+Lista PR: 1 | Total: 5
+Progresso: 2108 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 2109 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 2110 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 2111 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 2112 de 149796
+Progresso: 2113 de 149796
+Lista paragraphs: 21 | Total: 60
+Lista PR: 1 | Total: 5
+Progresso: 2114 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 2115 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 2116 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 2117 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 2118 de 149796
+Progresso: 2119 de 149796
+Lista paragraphs: 22 | Total: 60
+Lista PR: 1 | Total: 5
+Progresso: 2120 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 2121 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 2122 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 2123 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 2124 de 149796
+Progresso: 2125 de 149796
+Lista paragraphs: 23 | Total: 60
+Lista PR: 1 | Total: 7
+Progresso: 2126 de 149796
+Lista PR: 2 | Total: 7
+Progresso: 2127 de 149796
+Lista PR: 3 | Total: 7
+Progresso: 2128 de 149796
+Lista PR: 4 | Total: 7
+Progresso: 2129 de 149796
+Lista PR: 5 | Total: 7
+Progresso: 2130 de 149796
+Lista PR: 6 | Total: 7
+Progresso: 2131 de 149796
+Lista PR: 7 | Total: 7
+Progresso: 2132 de 149796
+Progresso: 2133 de 149796
+Lista paragraphs: 24 | Total: 60
+Lista PR: 1 | Total: 3
+Progresso: 2134 de 149796
+Lista PR: 2 | Total: 3
+Progresso: 2135 de 149796
+Lista PR: 3 | Total: 3
+Progresso: 2136 de 149796
+Progresso: 2137 de 149796
+Lista paragraphs: 25 | Total: 60
+Lista PR: 1 | Total: 8
+Progresso: 2138 de 149796
+Lista PR: 2 | Total: 8
+Progresso: 2139 de 149796
+Lista PR: 3 | Total: 8
+Progresso: 2140 de 149796
+Lista PR: 4 | Total: 8
+Progresso: 2141 de 149796
+Lista PR: 5 | Total: 8
+Progresso: 2142 de 149796
+Lista PR: 6 | Total: 8
+Progresso: 2143 de 149796
+Lista PR: 7 | Total: 8
+Progresso: 2144 de 149796
+Lista PR: 8 | Total: 8
+Progresso: 2145 de 149796
+Progresso: 2146 de 149796
+Lista paragraphs: 26 | Total: 60
+Lista PR: 1 | Total: 7
+Progresso: 2147 de 149796
+Lista PR: 2 | Total: 7
+Progresso: 2148 de 149796
+Lista PR: 3 | Total: 7
+Progresso: 2149 de 149796
+Lista PR: 4 | Total: 7
+Progresso: 2150 de 149796
+Lista PR: 5 | Total: 7
+Progresso: 2151 de 149796
+Lista PR: 6 | Total: 7
+Progresso: 2152 de 149796
+Lista PR: 7 | Total: 7
+Progresso: 2153 de 149796
+Progresso: 2154 de 149796
+Lista paragraphs: 27 | Total: 60
+Lista PR: 1 | Total: 9
+Progresso: 2155 de 149796
+Lista PR: 2 | Total: 9
+Progresso: 2156 de 149796
+Lista PR: 3 | Total: 9
+Progresso: 2157 de 149796
+Lista PR: 4 | Total: 9
+Progresso: 2158 de 149796
+Lista PR: 5 | Total: 9
+Progresso: 2159 de 149796
+Lista PR: 6 | Total: 9
+Progresso: 2160 de 149796
+Lista PR: 7 | Total: 9
+Progresso: 2161 de 149796
+Lista PR: 8 | Total: 9
+Progresso: 2162 de 149796
+Lista PR: 9 | Total: 9
+Progresso: 2163 de 149796
+Progresso: 2164 de 149796
+Lista paragraphs: 28 | Total: 60
+Lista PR: 1 | Total: 3
+Progresso: 2165 de 149796
+Lista PR: 2 | Total: 3
+Progresso: 2166 de 149796
+Lista PR: 3 | Total: 3
+Progresso: 2167 de 149796
+Progresso: 2168 de 149796
+Lista paragraphs: 29 | Total: 60
+Lista PR: 1 | Total: 3
+Progresso: 2169 de 149796
+Lista PR: 2 | Total: 3
+Progresso: 2170 de 149796
+Lista PR: 3 | Total: 3
+Progresso: 2171 de 149796
+Progresso: 2172 de 149796
+Lista paragraphs: 30 | Total: 60
+Lista PR: 1 | Total: 4
+Progresso: 2173 de 149796
+Lista PR: 2 | Total: 4
+Progresso: 2174 de 149796
+Lista PR: 3 | Total: 4
+Progresso: 2175 de 149796
+Lista PR: 4 | Total: 4
+Progresso: 2176 de 149796
+Progresso: 2177 de 149796
+Lista paragraphs: 31 | Total: 60
+Lista PR: 1 | Total: 7
+Progresso: 2178 de 149796
+Lista PR: 2 | Total: 7
+Progresso: 2179 de 149796
+Lista PR: 3 | Total: 7
+Progresso: 2180 de 149796
+Lista PR: 4 | Total: 7
+Progresso: 2181 de 149796
+Lista PR: 5 | Total: 7
+Progresso: 2182 de 149796
+Lista PR: 6 | Total: 7
+Progresso: 2183 de 149796
+Lista PR: 7 | Total: 7
+Progresso: 2184 de 149796
+Progresso: 2185 de 149796
+Lista paragraphs: 32 | Total: 60
+Lista PR: 1 | Total: 6
+Progresso: 2186 de 149796
+Lista PR: 2 | Total: 6
+Progresso: 2187 de 149796
+Lista PR: 3 | Total: 6
+Progresso: 2188 de 149796
+Lista PR: 4 | Total: 6
+Progresso: 2189 de 149796
+Lista PR: 5 | Total: 6
+Progresso: 2190 de 149796
+Lista PR: 6 | Total: 6
+Progresso: 2191 de 149796
+Progresso: 2192 de 149796
+Lista paragraphs: 33 | Total: 60
+Lista PR: 1 | Total: 3
+Progresso: 2193 de 149796
+Lista PR: 2 | Total: 3
+Progresso: 2194 de 149796
+Lista PR: 3 | Total: 3
+Progresso: 2195 de 149796
+Progresso: 2196 de 149796
+Lista paragraphs: 34 | Total: 60
+Lista PR: 1 | Total: 7
+Progresso: 2197 de 149796
+Lista PR: 2 | Total: 7
+Progresso: 2198 de 149796
+Lista PR: 3 | Total: 7
+Progresso: 2199 de 149796
+Lista PR: 4 | Total: 7
+Progresso: 2200 de 149796
+Lista PR: 5 | Total: 7
+Progresso: 2201 de 149796
+Lista PR: 6 | Total: 7
+Progresso: 2202 de 149796
+Lista PR: 7 | Total: 7
+Progresso: 2203 de 149796
+Progresso: 2204 de 149796
+Lista paragraphs: 35 | Total: 60
+Lista PR: 1 | Total: 3
+Progresso: 2205 de 149796
+Lista PR: 2 | Total: 3
+Progresso: 2206 de 149796
+Lista PR: 3 | Total: 3
+Progresso: 2207 de 149796
+Progresso: 2208 de 149796
+Lista paragraphs: 36 | Total: 60
+Lista PR: 1 | Total: 2
+Progresso: 2209 de 149796
+Lista PR: 2 | Total: 2
+Progresso: 2210 de 149796
+Progresso: 2211 de 149796
+Lista paragraphs: 37 | Total: 60
+Lista PR: 1 | Total: 3
+Progresso: 2212 de 149796
+Lista PR: 2 | Total: 3
+Progresso: 2213 de 149796
+Lista PR: 3 | Total: 3
+Progresso: 2214 de 149796
+Progresso: 2215 de 149796
+Lista paragraphs: 38 | Total: 60
+Lista PR: 1 | Total: 6
+Progresso: 2216 de 149796
+Lista PR: 2 | Total: 6
+Progresso: 2217 de 149796
+Lista PR: 3 | Total: 6
+Progresso: 2218 de 149796
+Lista PR: 4 | Total: 6
+Progresso: 2219 de 149796
+Lista PR: 5 | Total: 6
+Progresso: 2220 de 149796
+Lista PR: 6 | Total: 6
+Progresso: 2221 de 149796
+Progresso: 2222 de 149796
+Lista paragraphs: 39 | Total: 60
+Lista PR: 1 | Total: 7
+Progresso: 2223 de 149796
+Lista PR: 2 | Total: 7
+Progresso: 2224 de 149796
+Lista PR: 3 | Total: 7
+Progresso: 2225 de 149796
+Lista PR: 4 | Total: 7
+Progresso: 2226 de 149796
+Lista PR: 5 | Total: 7
+Progresso: 2227 de 149796
+Lista PR: 6 | Total: 7
+Progresso: 2228 de 149796
+Lista PR: 7 | Total: 7
+Progresso: 2229 de 149796
+Progresso: 2230 de 149796
+Lista paragraphs: 40 | Total: 60
+Lista PR: 1 | Total: 5
+Progresso: 2231 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 2232 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 2233 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 2234 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 2235 de 149796
+Progresso: 2236 de 149796
+Lista paragraphs: 41 | Total: 60
+Lista PR: 1 | Total: 7
+Progresso: 2237 de 149796
+Lista PR: 2 | Total: 7
+Progresso: 2238 de 149796
+Lista PR: 3 | Total: 7
+Progresso: 2239 de 149796
+Lista PR: 4 | Total: 7
+Progresso: 2240 de 149796
+Lista PR: 5 | Total: 7
+Progresso: 2241 de 149796
+Lista PR: 6 | Total: 7
+Progresso: 2242 de 149796
+Lista PR: 7 | Total: 7
+Progresso: 2243 de 149796
+Progresso: 2244 de 149796
+Lista paragraphs: 42 | Total: 60
+Lista PR: 1 | Total: 6
+Progresso: 2245 de 149796
+Lista PR: 2 | Total: 6
+Progresso: 2246 de 149796
+Lista PR: 3 | Total: 6
+Progresso: 2247 de 149796
+Lista PR: 4 | Total: 6
+Progresso: 2248 de 149796
+Lista PR: 5 | Total: 6
+Progresso: 2249 de 149796
+Lista PR: 6 | Total: 6
+Progresso: 2250 de 149796
+Progresso: 2251 de 149796
+Lista paragraphs: 43 | Total: 60
+Lista PR: 1 | Total: 6
+Progresso: 2252 de 149796
+Lista PR: 2 | Total: 6
+Progresso: 2253 de 149796
+Lista PR: 3 | Total: 6
+Progresso: 2254 de 149796
+Lista PR: 4 | Total: 6
+Progresso: 2255 de 149796
+Lista PR: 5 | Total: 6
+Progresso: 2256 de 149796
+Lista PR: 6 | Total: 6
+Progresso: 2257 de 149796
+Progresso: 2258 de 149796
+Lista paragraphs: 44 | Total: 60
+Lista PR: 1 | Total: 5
+Progresso: 2259 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 2260 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 2261 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 2262 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 2263 de 149796
+Progresso: 2264 de 149796
+Lista paragraphs: 45 | Total: 60
+Lista PR: 1 | Total: 4
+Progresso: 2265 de 149796
+Lista PR: 2 | Total: 4
+Progresso: 2266 de 149796
+Lista PR: 3 | Total: 4
+Progresso: 2267 de 149796
+Lista PR: 4 | Total: 4
+Progresso: 2268 de 149796
+Progresso: 2269 de 149796
+Lista paragraphs: 46 | Total: 60
+Lista PR: 1 | Total: 5
+Progresso: 2270 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 2271 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 2272 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 2273 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 2274 de 149796
+Progresso: 2275 de 149796
+Lista paragraphs: 47 | Total: 60
+Lista PR: 1 | Total: 7
+Progresso: 2276 de 149796
+Lista PR: 2 | Total: 7
+Progresso: 2277 de 149796
+Lista PR: 3 | Total: 7
+Progresso: 2278 de 149796
+Lista PR: 4 | Total: 7
+Progresso: 2279 de 149796
+Lista PR: 5 | Total: 7
+Progresso: 2280 de 149796
+Lista PR: 6 | Total: 7
+Progresso: 2281 de 149796
+Lista PR: 7 | Total: 7
+Progresso: 2282 de 149796
+Progresso: 2283 de 149796
+Lista paragraphs: 48 | Total: 60
+Lista PR: 1 | Total: 4
+Progresso: 2284 de 149796
+Lista PR: 2 | Total: 4
+Progresso: 2285 de 149796
+Lista PR: 3 | Total: 4
+Progresso: 2286 de 149796
+Lista PR: 4 | Total: 4
+Progresso: 2287 de 149796
+Progresso: 2288 de 149796
+Lista paragraphs: 49 | Total: 60
+Lista PR: 1 | Total: 4
+Progresso: 2289 de 149796
+Lista PR: 2 | Total: 4
+Progresso: 2290 de 149796
+Lista PR: 3 | Total: 4
+Progresso: 2291 de 149796
+Lista PR: 4 | Total: 4
+Progresso: 2292 de 149796
+Progresso: 2293 de 149796
+Lista paragraphs: 50 | Total: 60
+Lista PR: 1 | Total: 4
+Progresso: 2294 de 149796
+Lista PR: 2 | Total: 4
+Progresso: 2295 de 149796
+Lista PR: 3 | Total: 4
+Progresso: 2296 de 149796
+Lista PR: 4 | Total: 4
+Progresso: 2297 de 149796
+Progresso: 2298 de 149796
+Lista paragraphs: 51 | Total: 60
+Lista PR: 1 | Total: 5
+Progresso: 2299 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 2300 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 2301 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 2302 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 2303 de 149796
+Progresso: 2304 de 149796
+Lista paragraphs: 52 | Total: 60
+Lista PR: 1 | Total: 5
+Progresso: 2305 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 2306 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 2307 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 2308 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 2309 de 149796
+Progresso: 2310 de 149796
+Lista paragraphs: 53 | Total: 60
+Lista PR: 1 | Total: 7
+Progresso: 2311 de 149796
+Lista PR: 2 | Total: 7
+Progresso: 2312 de 149796
+Lista PR: 3 | Total: 7
+Progresso: 2313 de 149796
+Lista PR: 4 | Total: 7
+Progresso: 2314 de 149796
+Lista PR: 5 | Total: 7
+Progresso: 2315 de 149796
+Lista PR: 6 | Total: 7
+Progresso: 2316 de 149796
+Lista PR: 7 | Total: 7
+Progresso: 2317 de 149796
+Progresso: 2318 de 149796
+Lista paragraphs: 54 | Total: 60
+Lista PR: 1 | Total: 2
+Progresso: 2319 de 149796
+Lista PR: 2 | Total: 2
+Progresso: 2320 de 149796
+Progresso: 2321 de 149796
+Lista paragraphs: 55 | Total: 60
+Lista PR: 1 | Total: 7
+Progresso: 2322 de 149796
+Lista PR: 2 | Total: 7
+Progresso: 2323 de 149796
+Lista PR: 3 | Total: 7
+Progresso: 2324 de 149796
+Lista PR: 4 | Total: 7
+Progresso: 2325 de 149796
+Lista PR: 5 | Total: 7
+Progresso: 2326 de 149796
+Lista PR: 6 | Total: 7
+Progresso: 2327 de 149796
+Lista PR: 7 | Total: 7
+Progresso: 2328 de 149796
+Progresso: 2329 de 149796
+Lista paragraphs: 56 | Total: 60
+Lista PR: 1 | Total: 5
+Progresso: 2330 de 149796
+Lista PR: 2 | Total: 5
+Progresso: 2331 de 149796
+Lista PR: 3 | Total: 5
+Progresso: 2332 de 149796
+Lista PR: 4 | Total: 5
+Progresso: 2333 de 149796
+Lista PR: 5 | Total: 5
+Progresso: 2334 de 149796
+Progresso: 2335 de 149796
+Lista paragraphs: 57 | Total: 60
+Lista PR: 1 | Total: 7
+Progresso: 2336 de 149796
+Lista PR: 2 | Total: 7
+Progresso: 2337 de 149796
+Lista PR: 3 | Total: 7
+Progresso: 2338 de 149796
+Lista PR: 4 | Total: 7
+Progresso: 2339 de 149796
+Lista PR: 5 | Total: 7
+Progresso: 2340 de 149796
+Lista PR: 6 | Total: 7
+Progresso: 2341 de 149796
+Lista PR: 7 | Total: 7
+Progresso: 2342 de 149796
+Progresso: 2343 de 149796
+Lista paragraphs: 58 | Total: 60
+Lista PR: 1 | Total: 3
+Progresso: 2344 de 149796
+Lista PR: 2 | Total: 3
+Progresso: 2345 de 149796
+Lista PR: 3 | Total: 3
+Progresso: 2346 de 149796
+Progresso: 2347 de 149796
+Lista paragraphs: 59 | Total: 60
+Lista PR: 1 | Total: 1
+Progresso: 2348 de 149796
+Progresso: 2349 de 149796
+Lista paragraphs: 60 | Total: 60
+Lista PR: 1 | Total: 2
+Progresso: 2350 de 149796
+Lista PR: 2 | Total: 2
+Progresso: 2351 de 149796
+Progresso: 2352 de 149796
+Lista dicionario: 5 | Total: 442
+Progresso: 2353 de 149796
+Lista paragraphs: 1 | Total: 32
+Lista PR: 1 | Total: 12
+Progresso: 2354 de 149796
+Lista PR: 2 | Total: 12
+Progresso: 2355 de 149796
+Lista PR: 3 | Total: 12
+Progresso: 2356 de 149796
+Lista PR: 4 | Total: 12
+Progresso: 2357 de 149796
+Lista PR: 5 | Total: 12
+Progresso: 2358 de 149796
+Lista PR: 6 | Total: 12
+Progresso: 2359 de 149796
+Lista PR: 7 | Total: 12
+Progresso: 2360 de 149796
+Lista PR: 8 | Total: 12
+stop translation
