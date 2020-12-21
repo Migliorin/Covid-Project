@@ -4,7 +4,8 @@ Projeto para desenvolvimento de Método Computacional para Análise Automática 
 ## DataSets
 
 * [COVID-Q](https://github.com/JerryWei03/COVID-Q.git): 1,690 Questions about COVID-19
-* [(MQP) Dataset](https://github.com/curai/medical-question-pair-dataset.git): Medical Question Pairs  
+* [(MQP) Dataset](https://github.com/curai/medical-question-pair-dataset.git): Medical Question Pairs
+* [Qorona](https://github.com/allenai/Qorona.git) 
 
 ## Questions and Answers links GOV
 
