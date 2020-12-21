@@ -1,6 +1,12 @@
 # COVID Project
+Projeto para desenvolvimento de Método Computacional para Análise Automática de Perguntas e Respostas sobre a COVID-19
 
-## Datasets links
+## DataSets
+
+* [COVID-Q](https://github.com/JerryWei03/COVID-Q.git): 1,690 Questions about COVID-19
+* [(MQP) Dataset](https://github.com/curai/medical-question-pair-dataset.git): Medical Question Pairs  
+
+## Questions and Answers links GOV
 
 * [https://portal.fiocruz.br](https://portal.fiocruz.br/coronavirus/perguntas-e-respostas)
 * [https://covid19.min-saude.pt](https://covid19.min-saude.pt/perguntas-frequentes/)
@@ -27,3 +33,4 @@
 * [www.dive.sc.gov.br](www.dive.sc.gov.br/conteudos/agravos/publicacoes/Perguntas%20e%20respostas%20coronavirus.pdf)
 * [https://www.inca.gov.br](https://www.inca.gov.br/perguntas-frequentes/cancer-e-coronavirus-covid-19)
 * [https://covid19.ins.gov.mz](https://covid19.ins.gov.mz/f-a-q/)
+* [https://www.who.int](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub)
