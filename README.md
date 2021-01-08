@@ -8,6 +8,7 @@ Projeto para desenvolvimento de Método Computacional para Análise Automática 
 * [Qorona](https://github.com/allenai/Qorona.git) 
 
 ## Questions and Answers links GOV
+Dataset: 781 Questions and Answers
 
 * [https://portal.fiocruz.br](https://portal.fiocruz.br/coronavirus/perguntas-e-respostas)
 * [https://covid19.min-saude.pt](https://covid19.min-saude.pt/perguntas-frequentes/)
